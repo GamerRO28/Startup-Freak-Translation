@@ -1,0 +1,1306 @@
+Id,Value,Notes
+Str_Settings_Video,Video,
+Str_Settings_Resolution,Rezolutie,
+Str_Settings_Mode,Mod,Video mode (fullscreen or windowed)
+Str_Settings_Audio,Audio,
+Str_Settings_Music,Muzica,
+Str_Settings_Sound,Sunete,
+Str_Settings_UI,UI,
+Str_Settings_Language,Limba,
+Str_Settings_Keyboard,Tastatura,
+Str_Settings_Backlog,Backlog,
+Str_Settings_Mailbox,Mailuri,
+Str_Settings_People,Echipa,
+Str_Settings_Spending,Cheltuieli,
+Str_Settings_Pricing,Preturi,
+Str_Settings_Infrastructure,Infrastructura,
+Str_Settings_Stats,Statistice,
+Str_Settings_Investment,Investitie,
+Str_Settings_RunSprint,Ruleaza Tura,
+Str_Settings_Apply,Aplica,
+Str_Settings_Windowed,Fereastra,
+Str_Settings_Fullscreen,Ecran Complet,
+Str_Menu_New,Nou,
+Str_Menu_Load,Incarca,
+Str_Menu_SaveLoad,Salveaza / Incarca,
+Str_Menu_Save,Salveaza,
+Str_Menu_Overwrite,Suprascrie,
+Str_Menu_Options,Optiuni,
+Str_Menu_HighScores,Scoruri,
+Str_Menu_Return,Intoarce-te in Joc,
+Str_Menu_Exit,Iesi,
+Str_Misc_Company,Companie,
+Str_Misc_CompanyName,Nume,
+Str_Misc_Product,Produs,
+Str_Misc_CEO,CEO,
+Str_Misc_Reset,Reseteaza,
+Str_Misc_Close,Inchide,
+Str_Misc_Valuation,Expertiza,
+Str_Misc_Furniture,Mobila,
+Str_Misc_Office,Birou,
+Str_Misc_Marketing,Marketing,
+Str_Misc_Branding,Logo,
+Str_Misc_Cost,Costa,
+Str_Misc_PerMonthDollarFormat,{0:C0} / luna,
+Str_Misc_PerMonth,pe luna,
+Str_Misc_Current,Curent,
+Str_Misc_Max,Maxim,
+Str_Misc_Users,Utilizator,
+Str_Misc_TotalUsers,Total Utilizatori,
+Str_Misc_RevenuePerMonth,Venit / luna,
+Str_Misc_ExpenditurePerMonth,Cheltuieli / luna,
+Str_Misc_VisitorsPerMonth,Vizitatori / luna,
+Str_Misc_SignupsPerMonth,Inregistrari / luna,
+Str_Misc_ChurnPerMonth,Churn / luna,
+Str_Misc_Cancel,Anuleaza,
+Str_Misc_Start,Incepe,
+Str_Misc_Total,Total,
+Str_Person_Name,Nume,
+Str_Person_Gender,Sex,
+Str_Person_Appearance,Aspect,
+Str_Person_Clothes,Haine,
+Str_Person_Salary,Salariu,
+Str_Person_PrimarySkill,Abilitate Primara,
+Str_Person_SecondarySkill,Abilitate Secundara,
+Str_Person_Attitude,Atitudine,
+Str_Person_Sensitivity,Sensibilitate,
+Str_Person_Happiness,Bucurie,
+Str_Person_Train,Instruieste pentru {0} Ture,
+Str_Person_Training,In instruire,
+Str_Person_Hire,Angajeaja,
+Str_Person_Fire,Concediaza ({0:C0}),
+Str_Person_BiggestConcern,Cea mai mare dorinta: {0},
+Str_Person_Sir,Domnul,
+Str_Person_Madam,Doamna,
+Str_Person_MaxSkill,Maxim {0},
+Str_Skill_Development,Dezvoltare,
+Str_Skill_Design,Design,
+Str_Skill_SalesAndMarketing,Vanzari si Marketing,
+Str_Skill_Operations,Operatii,
+Str_Skill_Development_Short,Dev,
+Str_Skill_Design_Short,Design,
+Str_Skill_SalesAndMarketing_Short,Vanzari,
+Str_Skill_Operations_Short,Ops,
+Str_CompanyCreation_Startup,Incepe!,
+Str_Industry_PhotoSharing,Service de Sharing al Pozelor,
+Str_Industry_MusicStreaming,Transmitator de Muzica,
+Str_Industry_Analytics,Platforma de Analiza,
+Str_Difficulty_Easy,Usor,
+Str_Difficulty_Normal,Normal,
+Str_Difficulty_Hard,Greu,
+Str_HighScores_NoScore,Nu sunt scoruri momentan!,
+Str_HighScores_YourCash,Banii tai,
+Str_Mail_Inbox,Mesaje Primite,
+Str_Mail_Junk,Spam,
+Str_People_Employees,Angajati,
+Str_People_Candidates,Candidati,
+Str_People_Shareholders,Actionari,
+Str_People_NoCandidates,Niciun Candidat,
+Str_Office_Full,Biroul este plin,
+Str_Help_LevelUpRecruitment,Sfat: Creste nivelul la Recrutari ca sa cresti numarul de candidati,
+Str_Event_WarNZ,Razboi in Noua Zeelanda,
+Str_Event_WarSolomon,Insulele Solomon ataca Rusia,
+Str_Event_PeaceMiddleEast,Pace in Estul-Mijlociu,
+Str_Event_USAFreedomFry,SUA ofera Statuia Libertatii prajita,
+Str_Event_SupermanTrailer,Trailer la Superman shocheaza Stock-urile,
+Str_Event_MoonsAlign,Alinierea lunilor,
+Str_Event_InvestmentTaxBreak,Taxa la Investitii Scade,
+Str_Event_InvestmentTaxRise,Taxa la Investitii Creste,
+Str_Event_CoffeeHabits,Bautul Cafelei creste chiria,
+Str_Event_CapsuleOffice,Birouri Mici sunt toata furia,
+Str_Event_Airono,Airono este in Oras,
+Str_Event_ClownWorldcup,Cupa Clovnilor este Aici,
+Str_Event_CurrencyStrong,Valuta Locala Devine Puternica,
+Str_Event_CurrencyWeak,Valuta Locala Devine Slaba,
+Str_Event_MikeTyson,Aprobarea lui Mike Tyson,
+Str_Event_PrincePhilip,Respingerea Printului Philip,
+Str_Event_GameOfDrones,Mentiunea Urzelei Dronelor,
+Str_Event_UnemploymentPeak,Varf de Somaj,
+Str_Event_UnemploymentDrop,Retragerea Somajului,
+Str_Event_BeaversDam,Efectul Barajului Castorilor,
+Str_Event_GarbageHero,Eroul de Gunui AR devine Viral,
+Str_Event_JobSpeech,Discursul Scapa Cererile de Locuri de Munc?,
+Str_Event_Hackacom,Hackacom isi Inchide Usile,
+Str_Event_DietFad,6 Diete Hraneau Bugeturi Ciudate,
+Str_Event_64KStreaming,Livestream de 64K Ocupa Toata Reteaua de Internet,
+Str_Event_GiantSquid,Caracatitele Defecteaza Reteaua de Rezerva a Internetului,
+Str_Event_DigitalPiracy,Piratarea Digitala Retinuta Momentan,
+Str_Event_CloudWars,Razboaie asupra Infrastructurii Cloud-ului,
+Str_Event_BestSeller,Cel mai bun Vanzator Avertizeaza asupra Tehnologiei,
+Str_Event_StartupGame,Jocul de Pornire intareste Industria,
+Str_Event_SecurityBreach,Spargerea Securitatii,
+Str_EventImpact_Visitors,Vizitatori,
+Str_EventImpact_Signups,Inregistrari,
+Str_EventImpact_Churn,Churn,
+Str_EventImpact_InvestorCapital,Capitalul Investitorilor,
+Str_EventImpact_PropertyRental,Inchirierea Proprietatilor,
+Str_EventImpact_Candidates,Candidati,
+Str_EventImpact_StartingSalary,Salariu de Inceput,
+Str_EventImpact_EmployeeHappiness,Bucuria Angajatului,
+Str_EventImpact_InfrastructureCost,Pretul Infrastructurii,
+Str_Upgrade_Responsive,Design Inteligent,
+Str_Upgrade_Responsive_Full,Upgradarea Design-ului Inteligent,
+Str_Upgrade_Responsive_Desc,"Design-ul Inteligent te lasa sa faci UI care mege pe Device-uri de toata formele si marimile, de la un mic telefon mobil pana la un Monitor Gigantic. Desing-ul inteligent este in special important pentru produse care atrag consumatorul si care sunt folosite acasa si la servici, si pe drum.",
+Str_Upgrade_Accessibility,Accesibilitate,
+Str_Upgrade_Accessibility_Full,Upgradarea Accesibilitatii,
+Str_Upgrade_Accessibility_Desc,"Accessibility allows users with disability, especially those with visual impairment, to use your product. Accessibility  is always important, but especially for software that are a daily necessity.",
+Str_Upgrade_Typography,Tipografie Imbunatatita,
+Str_Upgrade_Typography_Full,Improved Typography Upgrade,
+Str_Upgrade_Typography_Desc,"Typography is a key part of UI design, and can greatly affect the attractiveness and usability of your product. It is especially important for software that rely on look and feel to attract customers.",
+Str_Upgrade_Tutorials,Tutoriale,
+Str_Upgrade_Tutorials_Full,Upgradarea la Tutoriale pentru Useri,
+Str_Upgrade_Tutorials_Desc,User tutorials can guide users in using your product effectively. Help and documentation is an effective way of training advanced users in complex software.,
+Str_Upgrade_Memory,Optimizarea Folosirii Memorie,
+Str_Upgrade_Memory_Full,Upgradarea pentru Optimizarea Folosirii Memoriei,
+Str_Upgrade_Memory_Desc,Reducing the memory requirements of your product allows more users to be able to use your software. Heavy-weight software that require a lot of computer resources benefit from this kind of optimization.,
+Str_Upgrade_Offline,Acces Offline,
+Str_Upgrade_Offline_Full,Upgradarea la Acces Offline,
+Str_Upgrade_Offline_Desc,"Being able to use software without internet connectivity is always a good option, but in some cases is indispensable. Productivity tools, for example, are a good candidate for this upgrade.",
+Str_Upgrade_Errors,Improved Error Handling,
+Str_Upgrade_Errors_Full,Improved Error Handling Upgrade,
+Str_Upgrade_Errors_Desc,"By improving error handling and logging in your features, not only do you make it easier to support and debug your features, you improve the way users feel about the quality of your software. Improved error handling is always a good investment!",
+Str_Upgrade_ForwardCompat,Transmiterea Compatibilitatii,
+Str_Upgrade_ForwardCompat_Full,Upgradare la Transmiterea Compatibilitatii,
+Str_Upgrade_ForwardCompat_Desc,Being able to upgrade to new versions of your software without hitches creates a great user experience. This becomes invaluable for software where the user is creating a lot of data (such as documents) which need to be migrated to later versions of your software.,
+Str_Upgrade_API,Integrare API,
+Str_Upgrade_API_Full,Upgrade la Integrarea API-ului,
+Str_Upgrade_API_Desc,APIurile lasa alti dezvoltatori sa-ti extinda programele si sa le integreze cu el. Programele indrepdate spre data sunt deobicei buni candidati pentru furnizarea unui API.,
+Str_Upgrade_AdaptiveUI,UI Adaptiv,
+Str_Upgrade_AdaptiveUI_Full,Adaptive UI Upgrade,
+Str_Upgrade_AdaptiveUI_Desc,"Adaptive UI is the ability for your features to adapt and adjust to each user, based on their usage. This can be a powerful tool for products that are used very frequently throughout the day.",
+Str_Upgrade_Gestures,Gesturi,
+Str_Upgrade_Gestures_Full,Gestures Upgrade,
+Str_Upgrade_Gestures_Desc,Gestures give users the ability to quickly navigate you software using touch gestures. Mobile/touch centric software benefit the most from this upgrade.,
+Str_Upgrade_Localisation,Localization,
+Str_Upgrade_Localisation_Full,Localization Upgrade,
+Str_Upgrade_Localisation_Desc,Localization is the process of translating and making your software appropriate for non-English audiences. Text-centric software benefit the most from this upgrade.,
+Str_Upgrade_Compare_Better,Mai placut decat {0},
+Str_Upgrade_Compare_Worse,Mai putin placut decat {0},
+Str_Upgrade_Compare_Same,Aproape la fel de placut ca {0},
+Str_Upgrade_DevEffort,Efort Dezvoltator,
+Str_Upgrade_DesignEffort,Efort Designer,
+Str_Report_BestFeature,Cea mai buna Functie,
+Str_Report_FeatureUpgrades,Upgraduri ale Functiei,
+Str_Report_Bugs,Bug-uri,
+Str_Report_DesignTechBalance,Balanta Design / Tech,
+Str_Report_Marketing,Marketing,
+Str_Report_Pricing,Preturi,
+Str_Report_Upgrade_CareEqually,Customers in our market segment care equally about {0} and {1}.,
+Str_Report_Upgrade_CareMore,Customers in our market segment care more about {0} than {1}.,
+Str_Report_Pricing_PerfectOneTier,"We are doing well with our single pricing plan, but we should consider introducing more plans to reach more potential customers.",
+Str_Report_Pricing_PerfectTwoTier,"We are doing well with our two tier pricing plans, but we should consider introducing a third plan to reach more potential customers.",
+Str_Report_Pricing_PerfectThreeTier,We are doing well with our three tier pricing plans.,
+Str_Report_Pricing_Perfect_Short,O ducem bine,
+Str_Report_Pricing_WayTooHigh,Pretul planului nostru '{0}' ({1:C0}) e mult prea mare. Chiar trebuie sa-l scadem.,
+Str_Report_Pricing_WayTooHigh_Short,Mult prea Mare,
+Str_Report_Pricing_TooHigh,"Pretul planului nostru '{0}' ({1:C0}) se apropie de unde ar trebuii sa fie, dar e prea mare. Ar trebuii sa consideram sa il scadem putin.",
+Str_Report_Pricing_TooHigh_Short,Un pic prea mare,
+Str_Report_Pricing_TooLow,"Pretul planului nostru '{0}' ({1:C0}) se apropie de unde ar trebuii sa fie, dar e prea mic. Ar trebuii sa consideram sa il marim putin.",
+Str_Report_Pricing_TooLow_Short,Un pic prea putin,
+Str_Report_Pricing_WayTooLow,Pretul planului nostru '{0}' ({1:C0}) e mult prea mic. Ar trebuii sa-l crestem definitiv.,
+Str_Report_Pricing_WayTooLow_Short,Mult prea mic,
+Str_Report_BestFeature_Desc,"Cea mai buna functie a noastra are {0} componente, {1} upgradeuri si {2} buguri.",
+Str_Report_BestFeature_IsRequested,Aceasta functie a fost ceruta de catre utilizatorii nostri.,
+Str_Report_Bugs_Good,Our customers are really happy with how bug free our product is. {0} out of {1} features have known bugs.,
+Str_Report_Bugs_SoSo,Our customers think we are doing an OK job with bugs but we could be doing better. {0} out of {1} features have known bugs.,
+Str_Report_Bugs_Bad,The number of bugs in our product is really hurting us in the market. We need to get it under control. {0} out of {1} features have known bugs.,
+Str_Report_DesignTechBalance_MoreDesign,Potentialii nostri clienti in aceasta piata le pasa mai mult de design decat functii technologice.,
+Str_Report_DesignTechBalance_MoreTech,Potentialii nostri clienti in aceasta piata le pasa mai mult de technologie decat functii designice.,
+Str_Report_DesignTechBalance_SameDesignAndTech,Potentialii nostri clienti le pasa la fel de mult de functii designice si de functii technologice.,
+Str_Report_DesignTechBalance_Stats,"Bazat pe asta, {0} din functiile noaste sunt prea technologice, {1} din functiile noastre sunt prea bazate pe design si {2} din functiile noastre au nimerit balanta dintre technologie si design.",
+Str_Report_Marketing_BetterForAllSpending,"{0} will attract a larger number of visitors than {1}, for any amount of spending.",
+Str_Report_Marketing_BetterForSomeSpending,"{0} will attract a larger number of visitors than {1}, if we spend more than {2:C0}.",
+Str_Happiness_Opportunities,Sunt foarte multe oportunitati excitante acolo.,
+Str_Happiness_Poachers,"Poachers are calling us right, left and center. Just saying...",
+Str_Happiness_BetterSalaries,Aud ca sunt salarii mai bune.,
+Str_Happiness_EveryoneHiring,It feels like everybody is hiring these days.,
+Str_SprintNotification_BacklogItem,Nivel {0} {1},
+Str_SprintNotification_Feature,{0} Functie,
+Str_SprintNotification_Features,{0} Functii,
+Str_SprintNotification_Upgrade,{0} Upgradat,
+Str_SprintNotification_Upgrades,{0} Upgradeuri,
+Str_SprintNotification_Bug,{0} fixarea bugului,
+Str_SprintNotification_Bugs,{0} fixari de buguri,
+Str_SprintNotification_Sprint,Sprint {0} Completed,
+Str_Notification_UrgentMail,Ai primit un Email urgent!!!,
+Str_Notification_ReadyForLaunch,Suntem gata sa lansam produsul. Hai sa-l trimitem!,
+Str_Notification_NameListDelimeter,"{0}, {1}",
+Str_Notification_NameListDelimeterLast,{0} si {1},
+Str_Notification_EmployeeQuit,{0} s-a saturat si a demisionat!!,
+Str_Notification_EmployeesQuit,{0} s-au saturat si au demisionat!!,
+Str_Notification_UnfinishedFeature,"N-ai terminat cu designul unei noi functii. Ori termin-o si adaug-o turei, sau anuleaza.",
+Str_Notification_InDebt,Balanta contului tau a ajuns negativa! Mai ai 8 saptamani ca sa scapi de faliment. Considea gasirea unui nou investitor!,
+Str_Notification_FirstCustomer,Bine facut! Primul tau user tocmai s-a inregistrat si inca multi o s-o mai faca!,
+Str_Notification_Quit,Esti sigur ca vrei sa iesi fara sa salvezi?,
+Str_Notification_NewGame,Esti sigur ca vrei sa incepi un joc nou? O sa pierzi orice date nesalvate!,
+Str_Notification_ConflictingFeature,"The feature you have designed conflicts with a user-requested feature. If you continue to build it, you will miss the chance to build the requested feature.",
+Str_Notification_NewNetworkTopologyAvailable,A new network topology is available for research,
+Str_Notification_NetworkTopologyResearchCompleted,Terminat de cercetat {0},
+Str_Notification_EmptySprint,Tura este goala. Intoarcete in backlog si alege la ce vrei sa lucrezi.,
+Str_Notification_NoServers,Trebuie sa ai cel putin 1 server intr-un centru de date activ.,
+Str_Notification_FullSprint,Tura tea este deja plina!,
+Str_Notification_SelectInvestor,Select at least one investor profile.,
+Str_Notification_SellCompany,Selling your company will end the game. Are you sure you have had it with your venture?,
+Str_Notification_BadCounterOffer,Your counter offer is worse than what the investor originally offered you. You may want to reconsider.,
+Str_Notification_OfficeTooSmall,Biroul tau e prea mic!,
+Str_Notification_FurnitureInCredit,Your furniture has been placed in storage. Would you like to place them in your office now?,
+Str_Notification_ConfirmDeprecateFeature,Are you sure you want to deprecate this feature?,
+Str_Notification_ConfirmCancelFeature,Are you sure you want to cancel this feature? Any progress will be lost.,
+Str_Notification_Action_OpenMail,Deschide Mailbox-ul,
+Str_Notification_Action_Launch,Lanseaza,
+Str_Notification_Action_Close,Inchide,
+Str_Notification_Action_OpenBacklog,Deschide Backlog-ul,
+Str_Notification_Action_Quit,Iesi,
+Str_Notification_Action_NewGame,Joc nou,
+Str_Notification_Action_OpenInfrastructure,Deschide Infrastructura,
+Str_Notification_Action_SellCompany,Vinde tot!,
+Str_Notification_Action_OpenStore,Deschide Magazin-ul,
+Str_Notification_Action_SeeCandidates,Vezi Candidatii,
+Str_Notification_Action_OpenMarketing,Open Marketing,
+Str_Notification_Action_Next,Urmator,
+Str_Notification_Action_YesDeprecate,"Da, dezaproba",
+Str_Notification_Action_YesCancel,"Da, anuleaza",
+Str_Tutorial_GameStart1_Page1,First things first: let's head over to the backlog and figure out what we should work on.,
+Str_Tutorial_Backlog1_Page1,The backlog is where you pick the tasks and features to work on in the next sprint (1 week of work).,
+Str_Tutorial_Backlog1_Page2,Let's begin with desiging a new feature. Click the feature button on the left.,
+Str_Tutorial_Backlog2_Page1,Besides features there are other tasks we need to focus on.,
+Str_Tutorial_Backlog2_Page2,"In the backlog on the left, double click the 'Infrastructure' task to add it to the next sprint.",
+Str_Tutorial_Backlog2_Page3,"Hover the mouse over the question mark that appears above the task, to see what it's for and what it will unlock when it's leveled up.",
+Str_Tutorial_Backlog3_Page1,We are ready to start the sprint! Click the big play button at the top of the screen to get going.,
+Str_Tutorial_Employees1_Page1,"Your team is your most valuable asset. Hire capable people with good attitudes, and you are well on your way to success!",
+Str_Tutorial_Employees1_Page2,Many different factors can cause your employees to become dissatisfied.,
+Str_Tutorial_Employees1_Page3,"There are three ways you can deal with an unhappy employee: Increase their salary, add more goodies to the office, or make them or others that may be affecting them redundant.",
+Str_Tutorial_Employees2_Page1,"That's a great little one-person show you got going on there, but if you you're going to succeed you have to start building a team. Start looking at candidates and hire someone that complements your skillset.",
+Str_Tutorial_Investment1_Page1,"Getting the right investors on-board can be the difference between fizzling out, or having enough runway to become profitable.",
+Str_Tutorial_Investment1_Page2,Investors appear here when you level up the Seek Investor task in your backlog.,
+Str_Tutorial_Investment1_Page3,"You can select up to two investors to pitch your startup to. Pitching to investors can be tricky business, so if it's your first time remember to do a practice run.",
+Str_Tutorial_Investment2_Page1,You pitch your startup to investors with a slide show. There are 12 different subjects you can choose from.,
+Str_Tutorial_Investment2_Page2,Remember not all investors are interested in all subjects. Use their profile for clues as to what they might be interested in,
+Str_Tutorial_Investment2_Page3,"You can also ask investors a question, which helps you eliminate some subjects they might not be interested in",
+Str_Tutorial_Investment2_Page4,"If an investor reaches a minimum level of interest, they will make you an offer. You'll then have the chance to negotiate and/or accept the offer",
+Str_Tutorial_Investment3_Page1,Our cash reserves are slowly running out! We should look into finding some investors.,
+Str_Tutorial_FirstFeature_Page1,"Awesome, you just built your very first feature! Now look at what else we need to do to complete the Minimum Viable Product, by clicking the arrow key at the bottom of the screen.",
+Str_Tutorial_FirstLevelup_Page1,"Fantastic, you just leveled up your very first backlog item! Now look at what else we need to do to complete the Minimum Viable Product, by clicking the arrow key at the bottom of the screen.",
+Str_Tutorial_FirstMarketingLevelup_Page1,"Great, you have gained some experience in marketing! We should start spending some money on marketing activities.",
+Str_Tutorial_Metric_Breadth_Page1,This is the total number of functional features. Increasing feature count improves the rate of signups.,
+Str_Tutorial_Metric_Rating_Page1,"This is the sum of all feature ratings. Improving feature rating will reduce customer churn. A feature's rating depends on its component count, upgrades, performance, design/tech balance, and bug count.",
+Str_Tutorial_Metric_Security_Page1,The percentage of feature components that are secured. Increasing security reduces the chances of security attacks being successful.,
+Str_Tutorial_Metric_Tests,The percentage of technical feature components that are covered by a test. Tests reduce the number of bugs that may surface in a component.,
+Str_Tutorial_RequestedFeature_Page1,Market research can sometimes identify features that are in high demand by customers. Building these features might be complex but can be well worth your while!,
+Str_Tutorial_RequestedFeature_Page2,Building each requested feature will boost signups and reduce churn.,
+Str_Tutorial_MarketResearch_Page1,"Market research is crucial part of any startup. To understand what features to build for your customers, level up Market Research in your backlog.",
+Str_Tutorial_SprintsToFinish_Page1,Tasks and features may take more than one sprint to finish. You can see their progress in the little bars at the top of the screen.,
+Str_Tutorial_SprintsToFinish_Page2,Continue to run sprints until the current tasks are completed.,
+Str_Tutorial_UpgradeResearch_Page1,Feature upgrades are extremely important in making effective and desirable. Here you can research upgrades that can then be added to individual features.,
+Str_Tutorial_UpgradeResearch_Page2,"Remember upgrades take a long time to research. The best upgrades depend on the industry and type of product you're building, so choose wisely!",
+Str_Tutorial_Feature_Rating,"Feature rating is based on its number of components, design/tech balance, upgrades, performance, and number of bugs. Requested features also have an increased rating.",
+Str_InvestorProfile_Features1,{{He}} is always buying and playing with the latest devices and gadgets.,
+Str_InvestorProfile_Features2,{{He}} always installs latest beta release of the OS on {{his}} phone.,
+Str_InvestorProfile_Features3,"Whenever updating an app on {{his}} phone, {{he}} reads all of the release notes.",
+Str_InvestorProfile_Features4,{{He}} used to build electronic kits as a kid.,
+Str_InvestorProfile_Features5,{{He}} is the president of the local Lego club.,
+Str_InvestorProfile_Infrastructure1,"Growing up, {{he}} enjoyed assembling computer parts.",
+Str_InvestorProfile_Infrastructure2,{{He}} constantly uses buzz words like 'cloud'.,
+Str_InvestorProfile_Infrastructure3,{{He}} are mare increde in internetul 5G ca va fi inlocuit cu fibra.,
+Str_InvestorProfile_Infrastructure4,{{He}} stie destul de putin despre racirea pe lichid pentru calculatoare.,
+Str_InvestorProfile_Infrastructure5,{{He}} has recently invested in a submarine data center startup.,
+Str_InvestorProfile_Security1,{{He}} regularly attends Black Hat conferences.,
+Str_InvestorProfile_Security2,{{He}} has a tape placed over {{his}} phone camera.,
+Str_InvestorProfile_Security3,{{He}} este un mare fan al filmului original Tron.,
+Str_InvestorProfile_Security4,{{He}} n-a vrut sa ne foloseasca reteaua Wi-Fi si foloseste telefonul {{his}} ca sa faca hotspot.,
+Str_InvestorProfile_Security5,{{He}} always pays for {{his}} food with cash.,
+Str_InvestorProfile_Ux1,{{He}} adora tatuajele si are mai multe.,
+Str_InvestorProfile_Ux2,{{He}} doar detine monitoare 4K si injura la ele.,
+Str_InvestorProfile_Ux3,{{He}} detine o tableta de desenat foarte scumpa.,
+Str_InvestorProfile_Ux4,"{{He}} is a great believer that skeuomorphism will make a comeback, albeit in a different form.",
+Str_InvestorProfile_Ux5,{{He}} uraste siteurile care deturneaza rotita mouseului cu javascript.,
+Str_InvestorProfile_Branding1,{{He}} este foarte bine imbracat(a) si prezentat(a).,
+Str_InvestorProfile_Branding2,{{He}} detine un MacBook cu un skin custom.,
+Str_InvestorProfile_Branding3,Ghiozdanul {{his}} este acoperit cu stickere.,
+Str_InvestorProfile_Branding4,{{He}} poarta un costum Gucci si pantofi asemanatori.,
+Str_InvestorProfile_Branding5,{{He}} is always advising young entrepreneurs to choose a company name that has an emotional hook.,
+Str_InvestorProfile_IA1,Emailurile {{his}} sunt mereu foarte bine scrise si stabilite clar.,
+Str_InvestorProfile_IA2,{{He}} often likes to draw diagrams to get a point across.,
+Str_InvestorProfile_IA3,{{He}} has setup many folders and dozens of rules in {{his}} mailbox.,
+Str_InvestorProfile_IA4,{{He}} absolutely hates sites that mix up search categories and tags in a confusing way.,
+Str_InvestorProfile_IA5,{{He}} thinks spreadsheets are one of the most overused and misused tools in the software industry.,
+Str_InvestorProfile_BusinessModel1,{{He}} has helped a number of startups go from an idea to a profitable company.,
+Str_InvestorProfile_BusinessModel2,{{He}} believes the way a product is priced is most important decision an entrepreneur makes.,
+Str_InvestorProfile_BusinessModel3,{{He}} frequently talks about the merits of Lean methodology.,
+Str_InvestorProfile_BusinessModel4,"{{He}} discourages early stage startups from building a two-sided marketplace, and instead asks them to focus on building one side first.",
+Str_InvestorProfile_BusinessModel5,{{He}} citeste adesea Henry Ford.,
+Str_InvestorProfile_MarketResearch1,{{He}} is a very curious individual who is always on the look-out for a problem worth solving.,
+Str_InvestorProfile_MarketResearch2,"{{He}} subscribes to as many podcasts, blogs and magazines on software startup news as {{he}} can find.",
+Str_InvestorProfile_MarketResearch3,{{He}} often says understanding the competition is the most important activity early stage startups should focus on.,
+Str_InvestorProfile_MarketResearch4,{{He}} thinks solving a problem is the easy part. Finding it is what's hard.,
+Str_InvestorProfile_MarketResearch5,{{He}} este cunoscat deoarece face sute de alerte Google.,
+Str_InvestorProfile_Sales1,{{He}} pare prea entuziasmat.,
+Str_InvestorProfile_Sales2,{{He}} never leaves the house without {{his}} business cards.,
+Str_InvestorProfile_Sales3,{{He}} is very active on social media and has a large following.,
+Str_InvestorProfile_Sales4,"{{He}} is known in the industry for some outrageous publicity stunts, including the infamous Banana Leaf incident.",
+Str_InvestorProfile_Sales5,{{He}} often mentions wanting to create a 'win-win' situation.,
+Str_InvestorProfile_Recruitment1,{{He}} adora sa vorbeasca cu oameni noi si sa ii cunoasca.,
+Str_InvestorProfile_Recruitment2,{{He}} believes finding the right team is the key to finding success.,
+Str_InvestorProfile_Recruitment3,{{He}} always asks people for their card or contact information.,
+Str_InvestorProfile_Recruitment4,{{He}} has a fake LinkedIn account intended only for 'stalking' people.,
+Str_InvestorProfile_Recruitment5,"{{His}} first question to anyone new {{he}} meets is: 'so, what do you do?'",
+Str_InvestorProfile_Finances1,{{He}} enjoys filing {{his}} own taxes.,
+Str_InvestorProfile_Finances2,{{He}} was quietly counting the number of chairs in the boardroom.,
+Str_InvestorProfile_Finances3,{{He}} conduce inceputurile {{his}} prin vorba: banii sunt regele.,
+Str_InvestorProfile_Finances4,{{He}} considera ca furnizarea de ceai si cafea gratis angajatilor este o rusine.,
+Str_InvestorProfile_Finances5,{{He}} advises startup founders to take timely payment of employee salaries very seriously.,
+Str_InvestorProfile_Legal1,{{He}} are 3 brevete sub centura {{his}}.,
+Str_InvestorProfile_Legal2,{{He}} adesea sfatuieste incepatorii sa-si comercializeze brandul cat mai repede.,
+Str_InvestorProfile_Legal3,{{He}} este un mare fan al show-ului Better Call Saul.,
+Str_InvestorProfile_Legal4,{{He}} nu a incercat niciodata sa iasa din datorie.,
+Str_InvestorProfile_Legal5,{{He}} often finishes {{his}} sentences with 'I rest my case'.,
+Str_InvestorProfile_He_Male,El,
+Str_InvestorProfile_He_Male_Lowercase,el,
+Str_InvestorProfile_His_Male,Lui,
+Str_InvestorProfile_His_Male_Lowercase,lui,
+Str_InvestorProfile_He_Female,Ea,
+Str_InvestorProfile_He_Female_Lowercase,ea,
+Str_InvestorProfile_His_Female,Ei,
+Str_InvestorProfile_His_Female_Lowercase,ei,
+Str_InvestorProfile_SkillBonus,Bonus: +1 skill pentru toti actualii si viitorii angajati. Abtitudinea depinde de profilul investitorului.,
+Str_Investment_LevelUp,Level Up <color='#E0FBFCFF'>Seek Investor</color>,
+Str_Investment_BeginPitch,Incepe Punctul de Investitie,
+Str_Investment_Practice,Exerseaza,
+Str_Investment_Tip_ShowingSlides,"Getting an investor to invest in your venture is all about getting them excited. Start by examining the investor's profile and showing them slides on topics they might be interested in.
+
+Remember, showing the same type of slide over and over will eventually bore your audience.",
+Str_Investment_Tip_AskingQuestions,"When in doubt, you can always ask the investor a clarifying question to eliminate some topics they may not be interested in, at the cost of a slide.
+
+Press the question mark on the computer keyboard to do this.",
+Str_Investment_Tip_MakingADeal,"Well done! You have gauged the interest of this investor and they have put in an offer. Here is your chance to try and get a better deal by reducing the equity, or increasing the investment amount. But remember, if you push the investor too far, they may retract their offer completely!",
+Str_Investment_Tip_Rejected,Din pacate l-ai plictisit pe investitor si nu ti-a mai dat nicio oferta. Mult noroc data viitoare!,
+Str_Investment_Tip_AggressiveOffer,Contra oferta dvs. a fost prea agresiva si investitorul a decis sa iasa din afacere. Mult noroc data viitoare!,
+Str_Investment_Leave,Iesi,
+Str_Investment_Slide_Features,Functii,
+Str_Investment_Slide_Infrastructure,Infrastructura,
+Str_Investment_Slide_Security,Securitate,
+Str_Investment_Slide_UX,UX,
+Str_Investment_Slide_Branding,Logo,
+Str_Investment_Slide_InformationArchitecture,Information Architecture,
+Str_Investment_Slide_BusinessModel,Model Business,
+Str_Investment_Slide_Sales,Vanzari si Marketing,
+Str_Investment_Slide_MarketResearch,Cercetare Piata,
+Str_Investment_Slide_Recruitment,Recrutare,
+Str_Investment_Slide_Finances,Finante,
+Str_Investment_Slide_Legal,Legal,
+Str_Investment_Reaction_Positive1,Minunat!,
+Str_Investment_Reaction_Positive2,"Oh, wow!",
+Str_Investment_Reaction_Positive3,"Hmmm, interesant?",
+Str_Investment_Reaction_Positive4,Excelent!,
+Str_Investment_Reaction_Positive5,Spune-mi mai multe?,
+Str_Investment_Reaction_Average1,"Da, OK?",
+Str_Investment_Reaction_Average2,Sigur...,
+Str_Investment_Reaction_Average3,Nu mai spune,
+Str_Investment_Reaction_Average4,Probabil,
+Str_Investment_Reaction_Average5,De ce nu,
+Str_Investment_Reaction_Negative1,Zzzzz,
+Str_Investment_Reaction_Negative2,"Scuze, ce?",
+Str_Investment_Reaction_Negative3,Pffffft!,
+Str_Investment_Reaction_Negative4,"Ummmm, sigur...",
+Str_Investment_Reaction_Negative5,Daca spui tu,
+Str_Investment_Reaction_NoThanks,"Multumesc, dar nu-ti multumesc",
+Str_Investment_Reaction_InitialOffer,"OK, O sa-ti fac o oferta",
+Str_Investment_Reaction_FinalOffer,Asta este ultima mea oferta,
+Str_Investment_SellCompany,Vinde Compania pentru {0:C0},
+Str_Investment_Offer,Ofera,
+Str_Investment_OfferShare,pentru {0:P0},
+Str_Investment_OfferRiskNone,Risc: Deloc,
+Str_Investment_OfferRiskLow,Risc: Mic,
+Str_Investment_OfferRiskHigh,Risc: Mare,
+Str_Investment_OfferAccept,Accepta ofera,
+Str_Investment_OfferCounter,Contra oferta,
+Str_Investment_OfferReset,Reseteaza,
+Str_Marketing_ColdCalls,Cold Calls,
+Str_Marketing_ColdEmails,Cold Emails,
+Str_Marketing_MailingLists,Mailing Lists,
+Str_Marketing_BlogPosts,Posturi pe Bloguri,
+Str_Marketing_SEO,SEO and Search Ads,
+Str_Marketing_VideoContent,Content Video,
+Str_Marketing_MyFace,Anunturi MyFace,
+Str_Marketing_Barker,Anunturi Barker,
+Str_Marketing_Pictasia,Anunturi Pictasia,
+Str_Marketing_Newspapers,Ziare si Reviste,
+Str_Marketing_Radio,Anunturi Radio,
+Str_Marketing_TV,Anunturi TV,
+Str_Marketing_Meetups,Local Meetup Sponsorship,
+Str_Marketing_Conferences,Conference Sponsorship,
+Str_Marketing_Competitions,Competitii,
+Str_Marketing_ActivityRequirement,Are nevoie de {0} {1},
+Str_Marketing_ActivityReport_WorseForAllSpending,ï Mai prost decat {0} pentru orice suma cheltuita,
+Str_Marketing_ActivityReport_BetterForMaxSpending,ï Mai bun decat {0} pentru cheltuind mai putin de {1:C0},
+Str_Marketing_ActivityReport_BetterForMinSpending,ï Mai bun decat {0} pentru cheltuind mai mult de {1:C0},
+Str_Marketing_ActivityReport_BetterForAllSpending,ï Mai bun decat {0} pentru orice suma cheltuita,
+Str_Store_Maintenance,Mentenanta,
+Str_Store_Buy,Cumpara,
+Str_Store_Sell,Vinde ({0:C0}),
+Str_Store_Credit,{0} Credite,
+Str_Store_Purchased,Cumparat,
+Str_Store_MoveItem,Muta,
+Str_Store_Requirement,Requires level {0} Office and Supplies,
+Str_Store_Chair1,Glorified Stool,
+Str_Store_Chair2,Scaun Ergocheek,
+Str_Store_Chair3,The Cloud Throne Chair,
+Str_Store_Desk1,Birou Normal,
+Str_Store_Desk2,Birou Executiv,
+Str_Store_Computer1,Calculator de Cartof,
+Str_Store_Computer2,Penta Core Workstation,
+Str_Store_Computer3,W9.98 Workstation,
+Str_Store_Fridge1,Frigider de 200L,
+Str_Store_Fridge2,Frigider de 600L,
+Str_Store_Fridge3,TerraCool Industrial Fridge,
+Str_Store_Coffee1,Masina de Cafea Pottea,
+Str_Store_Coffee2,Masina de Cafea Espranade,
+Str_Store_Coffee3,Fabricatorul Maestru,
+Str_Store_Coffee4,The Grand Barrister Coffee Machine,
+Str_Store_Bookcase1a,Biblioteca Inalta - Cacao,
+Str_Store_Bookcase1b,Biblioteca Inalta - Mahon,
+Str_Store_Bookcase2a,Biblioteca Sarpe - Maro,
+Str_Store_Bookcase2b,Biblioteca Sarpe - Mahon,
+Str_Store_Bookcase2c,Biblioteca Sarpe - Alb,
+Str_Store_TV1,TV Tuberema,
+Str_Store_TV2,TV HippoTech OMGD,
+Str_Store_Arcade1,Mazanoid Arcade Machine,
+Str_Store_Arcade2,Space Beamers Arcade Machine,
+Str_Store_Arcade3,The Bend Race Arcade Machine,
+Str_Store_BeanBag1a,Fotoliu - Albastru,
+Str_Store_BeanBag1b,Fotoliu - Gri,
+Str_Store_BeanBag1c,Fotoliu - Olive,
+Str_Store_BeanBag1d,Fotoliu - Mov,
+Str_Store_Couch1a,Comfort Max Couch - Chocolate,
+Str_Store_Couch1b,Comfort Max Couch - Chestnut,
+Str_Store_Couch1c,Comfort Max Couch - Carrot,
+Str_Store_Couch1d,Comfort Max Couch - Cream,
+Str_Store_Couch2a,Canapea SoFluffy - Crimson,
+Str_Store_Couch2b,Canapea SoFluffy - Crem,
+Str_Store_Couch2c,Canapea SoFluffy - Stone,
+Str_Store_Couch2d,Canapea SoFluffy - Olive,
+Str_Store_Couch3a,Executive Couch - Ash,
+Str_Store_Couch3b,Executive Couch - Charcol,
+Str_Store_Couch3c,Executive Couch - Olive,
+Str_Store_Couch3d,Executive Couch - Crimson,
+Str_Store_Painting1,The Sleeping Blotch,
+Str_Store_Painting2,Rocker Lisa,
+Str_Store_Painting3,Mountescape,
+Str_Store_Painting4,Eternal Sunshine of the Spotful Mind,
+Str_Store_Painting5,A Sail Away,
+Str_Store_Plant1,Dumb Cane Plant,
+Str_Store_Plant2,Golden Ball Cactus,
+Str_Store_Plant3,Fiddle Leaf Fig Tree,
+Str_Store_Plant4,Sansevieria Zeylanica,
+Str_Store_Plant5,Humata Tyermannii,
+Str_Store_Pool,Higgs Sports Pool Table,
+Str_Store_Printer1,TreeBurner Inkjet Printer,
+Str_Store_Printer2,PrintAll DR200,
+Str_Store_Printer3,PrintAll DX5000,
+Str_Store_WaterCooler1,Racitor de Apa,
+Str_Store_Vending1,Automat de Bauturi,
+Str_Store_Vending2,Automat de Aperitive,
+Str_Store_Table1,Vazier Table,
+Str_Office_Rent,Inchiriaza,
+Str_Office_Renting,Inchiriat,
+Str_Office_Capacity,Capacitate,
+Str_Office_TheShed,Shed-ul,
+Str_Office_TheHumble,Humble-ul,
+Str_Office_TheTerraces,Terraces-ul,
+Str_Office_TheDecadorm,Decadorm-ul,
+Str_Office_TheZen,Zen-ul,
+Str_Office_ThePalazzo,Palazzo-ul,
+Str_Office_Requirement,Ai nevoie de nivel {0} la Birou si Mobila,
+Str_Task_Infrastructure,Infrastructura,
+Str_Task_Infrastructure_Desc,Support more users by improving your server and other infrastructure technology.,
+Str_Task_Infrastructure_Level1,"ï Deblocheaza Centrul de Date
+ï Deblocheaza Serverul Virtual Ninja",
+Str_Task_Infrastructure_Level2,"ï Deblocheaza Balantarea unui singur Centru de Date
+ï Deblocheaza Serverul Virtual Super X10",
+Str_Task_Infrastructure_Level3,ï Deblocheaza Serverul Virtual Concord virtual server,
+Str_Task_Infrastructure_Level4,ï Deblocheaza Serverul Virtual Fuchsia virtual server,
+Str_Task_Infrastructure_Level5,ï Deblocheaza Serverul Virtual Hulk virtual server,
+Str_Task_Infrastructure_Level6,"ï Deblocheaza Balantarea Centrelor de Date Incrucisate
+ï Deblocheaza Serverul Vitual Hush",
+Str_Task_Infrastructure_Level7,ï Deblocheaza Serverul Virtual Peon virtual server,
+Str_Task_Infrastructure_Level8,ï Deblocheaza Serverul Virtual Pride,
+Str_Task_Infrastructure_Level9,ï Deblocheaza Serverul Virtual Calibrato,
+Str_Task_Infrastructure_Level10,ï Deblocheaza Serverul Virtual Amaranthine,
+Str_Task_Branding,Branding,
+Str_Task_Branding_Desc,Imbunatateste-ti logoul si cum lumea observa compania.,
+Str_Task_Branding_Level1,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level2,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level3,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level4,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level5,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level6,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level7,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level8,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level9,ï Deblocheaza noi logouri,
+Str_Task_Branding_Level10,ï Deblocheaza noi logouri,
+Str_Task_OutboundMarketing,Marketing Dinafara,
+Str_Task_OutboundMarketing_Desc,Reach out directly to potential customers using methods like cold emails and cold calls.,
+Str_Task_OutboundMarketing_Level1,"ï Unlock cold calls
+ï Increase outbound marketing budget to $1,000",
+Str_Task_OutboundMarketing_Level2,"ï Increase outbound marketing budget to $3,000",
+Str_Task_OutboundMarketing_Level3,"ï Increase outbound marketing budget to $6,000",
+Str_Task_OutboundMarketing_Level4,"ï Increase outbound marketing budget to $10,000",
+Str_Task_OutboundMarketing_Level5,"ï Unlock cold emails
+ï Increase outbound marketing budget to $15,000",
+Str_Task_OutboundMarketing_Level6,"ï Increase outbound marketing budget to $21,000",
+Str_Task_OutboundMarketing_Level7,"ï Increase outbound marketing budget to $28,000",
+Str_Task_OutboundMarketing_Level8,"ï Unlock mailing lists
+ï Increase outbound marketing budget to $36,000",
+Str_Task_OutboundMarketing_Level9,"ï Increase outbound marketing budget to $45,000",
+Str_Task_OutboundMarketing_Level10,"ï Increase outbound marketing budget to $55,000",
+Str_Task_InboundMarketing,Inbound Marketing,
+Str_Task_InboundMarketing_Desc,"Use inbound marketing methods like blogging, SEO and video content.",
+Str_Task_InboundMarketing_Level1,"ï Unlock blogging
+ï Increase inbound marketing budget to $1,000",
+Str_Task_InboundMarketing_Level2,"ï Increase inbound marketing budget to $3,000",
+Str_Task_InboundMarketing_Level3,"ï Increase inbound marketing budget to $6,000",
+Str_Task_InboundMarketing_Level4,"ï Increase inbound marketing budget to $10,000",
+Str_Task_InboundMarketing_Level5,"ï Unlock SEO and Search Ads
+ï Increase inbound marketing budget to $15,000",
+Str_Task_InboundMarketing_Level6,"ï Increase inbound marketing budget to $21,000",
+Str_Task_InboundMarketing_Level7,"ï Increase inbound marketing budget to $28,000",
+Str_Task_InboundMarketing_Level8,"ï Unlock mailing lists
+ï Increase inbound marketing budget to $36,000",
+Str_Task_InboundMarketing_Level9,"ï Increase inbound marketing budget to $45,000",
+Str_Task_InboundMarketing_Level10,"ï Increase inbound marketing budget to $55,000",
+Str_Task_SocialMedia,Social Media,
+Str_Task_SocialMedia_Desc,"Use social networking to reach larger groups of people, like MyFace, Barker, and Pictasia.",
+Str_Task_SocialMedia_1,"ï Deblocheaza Anunturile pe MyFace
+ï Creste bugetul pentru Marketing Social la $1,000",
+Str_Task_SocialMedia_2,"ï Creste bugetul pentru Marketing Social la $3,000",
+Str_Task_SocialMedia_3,"ï Creste bugetul pentru Marketing Social la $6,000",
+Str_Task_SocialMedia_4,"ï Creste bugetul pentru Marketing Social la $10,000",
+Str_Task_SocialMedia_5,"ï Deblocheaza Anunturile pe Barker
+ï Creste bugetul pentru Marketing Social la $15,000",
+Str_Task_SocialMedia_6,"ï Creste bugetul pentru Marketing Social la $21,000",
+Str_Task_SocialMedia_7,"ï Creste bugetul pentru Marketing Social la $28,000",
+Str_Task_SocialMedia_8,"ï Deblocheaza Anunturile pe Pictasia
+ï Creste bugetul pentru Marketing Social la $36,000",
+Str_Task_SocialMedia_9,"ï Creste bugetul pentru Marketing Social la $45,000",
+Str_Task_SocialMedia_10,"ï Creste bugetul pentru Marketing Social la $55,000",
+Str_Task_TraditionalMedia,Media Traditional,
+Str_Task_TraditionalMedia_Desc,"Reach potential customers through TV and radio ads, newspapers and billboards",
+Str_Task_TraditionalMedia_Level1,"ï Unlock Newspaper Ads
+ï Creste bugetul pentru Marketing Media Traditional la $1,000",
+Str_Task_TraditionalMedia_Level2,"ï Creste bugetul pentru Marketing Media Traditional la $3,000",
+Str_Task_TraditionalMedia_Level4,"ï Creste bugetul pentru Marketing Media Traditional la $6,000",
+Str_Task_TraditionalMedia_Level3,"ï Creste bugetul pentru Marketing Media Traditional la $10,000",
+Str_Task_TraditionalMedia_Level5,"ï Deblocheaza Anunturile la Radio
+ï Creste bugetul pentru Marketing Media Traditional la $15,000",
+Str_Task_TraditionalMedia_Level6,"ï Creste bugetul pentru Marketing Media Traditional la $21,000",
+Str_Task_TraditionalMedia_Level7,"ï Creste bugetul pentru Marketing Media Traditional la $28,000",
+Str_Task_TraditionalMedia_Level8,"ï Deblocheaza Anunturile la TV
+ï Creste bugetul pentru Marketing Media Traditional la $15,000",
+Str_Task_TraditionalMedia_Level9,"ï Creste bugetul pentru Marketing Media Traditional la $45,000",
+Str_Task_TraditionalMedia_Level10,"ï Creste bugetul pentru Marketing Media Traditional la $55,000",
+Str_Task_Events,Evenimente,
+Str_Task_Events_Desc,"Reach people by attending conferences, meetups and pretentious cocktail parties",
+Str_Task_Events_Level1,ï Deblocheaza Sponsorizarea Intalnirilor Locale,
+Str_Task_Events_Level2,"ï Creste bugetul pentru marketing de evenimente la $3,000",
+Str_Task_Events_Level3,"ï Creste bugetul pentru marketing de evenimente la $6,000",
+Str_Task_Events_Level4,"ï Creste bugetul pentru marketing de evenimente la $10,000",
+Str_Task_Events_Level5,"ï Deblocheaza Sponsorizarea Conferintelor Internationale
+ï Creste bugetul pentru marketing de evenimente la $15,000",
+Str_Task_Events_Level6,"ï Creste bugetul pentru marketing de evenimente la $21,000",
+Str_Task_Events_Level7,"ï Creste bugetul pentru marketing de evenimente la $28,000",
+Str_Task_Events_Level8,"ï Deblocheaza Competitiile.
+ï Creste bugetul pentru marketing de evenimente la $36,000.",
+Str_Task_Events_Level9,"ï Creste bugetul pentru marketing de evenimente la $45,000",
+Str_Task_Events_Level10,"ï Creste bugetul pentru marketing de evenimente la $55,000",
+Str_Task_MarketResearch,Cercetare Piata,
+Str_Task_MarketResearch_Desc,"Get an understanding of what the market wants by performing customer interviews, running focus groups and surveys, and stalking users.",
+Str_Task_MarketResearch_Level1,"ï Deblocheaza upgradurile functiei
+ï Increase market visibility
+ï New market research report",
+Str_Task_MarketResearch_Level2,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level3,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level4,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level5,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level6,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level7,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level8,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_MarketResearch_Level9,ï Cresterea vizibilitatii pe piata,
+Str_Task_MarketResearch_Level10,"ï Cresterea vizibilitatii pe piata
+ï New market research report",
+Str_Task_JobAdvertising,Publicitate pentru Locuri de Munca,
+Str_Task_JobAdvertising_Desc,Gaseste mai multi candidati de angajat.,
+Str_Task_JobAdvertising_Level1,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level2,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level3,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level4,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level5,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level6,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level7,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level8,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level9,ï Marirea listei de candidati cu 1,
+Str_Task_JobAdvertising_Level10,ï Marirea listei de candidati cu 1,
+Str_Task_CompanyPR,PR-ul Companiei,
+Str_Task_CompanyPR_Desc,Imbunatateste imaginea companiei si reputatia si atrage mai multi candidati de angajat.,
+Str_Task_CompanyPR_Level1,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level2,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level3,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level4,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level5,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level6,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level7,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level8,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level9,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_CompanyPR_Level10,ï Atrage candidati mai buni (Toti candidatii au un +1 la aptitudini),
+Str_Task_SeekInvestors,Cautarea Investitorilor,
+Str_Task_SeekInvestors_Desc,Atrage mai multi potential investitori companiei.,
+Str_Task_SeekInvestors_Level1,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level2,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level3,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level4,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level5,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level6,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level7,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level8,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level9,ï Atrage un nou potential investitor,
+Str_Task_SeekInvestors_Level10,ï Atrage un nou potential investitor,
+Str_Task_Office,Birou si Consumabile,
+Str_Task_Office_Desc,Cercetati proprietati noi de inchiriere si consumabile de birou.,
+Str_Task_Office_Level1,ï Deblocati 10 consumabile noi de birou,
+Str_Task_Office_Level2,ï Dezoblocheaza un nou birou,
+Str_Task_Office_Level3,ï Deblocati 10 consumabile noi de birou,
+Str_Task_Office_Level4,ï Dezoblocheaza un nou birou,
+Str_Task_Office_Level5,ï Deblocati 10 consumabile noi de birou,
+Str_Task_Office_Level6,ï Dezoblocheaza un nou birou,
+Str_Task_Office_Level7,ï Deblocati 10 consumabile noi de birou,
+Str_Task_Office_Level8,ï Dezoblocheaza un nou birou,
+Str_Task_Office_Level9,ï Deblocati 10 consumabile noi de birou,
+Str_Task_Office_Level10,"ï Deblocati 10 consumabile noi de birou
+ï Dezoblocheaza un nou birou",
+Str_Task_CurrentLevel,Nivel Curent,
+Str_Task_Effort,Efort,
+Str_Task_NextLevelEffects,Efectele noului nivel,
+Str_Logo_InUse,In Folosire,
+Str_Logo_Rebrand,Schimba Brand-ul,
+Str_Logo_Requirement,Ai nevoie de nivel {0} la Logouri,
+Str_Logo_VisitorBoost,Impuls de Vizitatori: +{0:P0},
+Str_Pricing_InitialPriceHint,Hint: competitorii nostri taxeaza o medie de {0:C0} pe luna.,
+Str_Pricing_NewTier,Licenta Nou,
+Str_Milestone_Completed,"Felicitari, ai terminat {0}",
+Str_Milestone_MvpCompleted,"Felicitari, ai terminat {0}! Sa ne pregatim pentru lansare.",
+Str_Milestone_Mvp,Produs Minim Viabil (PMV),
+Str_Milestone_Prelaunch,Pre-Lansare,
+Str_Milestone_Prelaunch_Action,Lansare,
+Str_Milestone_A,Milestone A,
+Str_Milestone_B,Milestone B,
+Str_Milestone_C,Milestone C,
+Str_Milestone_Servers,Servere,
+Str_Milestone_MonthlyRevenue,Venit Lunar,
+Str_Milestone_SellCompany,Vinde-ti compania unui investitor,
+Str_Milestone_SetupPricing,Seteaza Preturile,
+Str_Milestone_MarketingSpending,Cheltuieli de Marketing,
+Str_Milestone_Features,Functii,
+Str_Milestone_SingleTaskGoal,Nivel {0} {1},
+Str_Milestone_GroupTaskGoal,Nivel {0} Oricare {1},
+Str_Loading_01,restartand servere...,
+Str_Loading_02,depunand brevete...,
+Str_Loading_03,compiland codul...,
+Str_Loading_04,stergand listele bazei de date...,
+Str_Loading_05,luptand contra proceselor...,
+Str_Loading_06,facem backup la fisiere...,
+Str_Loading_07,automatizand implementarile...,
+Str_Loading_08,creand mediului de testare...,
+Str_Loading_09,imbarcam angajati noi...,
+Str_Loading_10,strigand la internet...,
+Str_Loading_11,fixand bug-uri...,
+Str_Loading_12,patchuind sisteme de operare...,
+Str_Loading_13,adaugand easter egguri...,
+Str_Loading_14,cautarea umplerii gramezilor...,
+Str_Loading_15,verificand conturile bancare...,
+Str_Loading_16,comandand pizza...,
+Str_Loading_17,devenind viral...,
+Str_Loading_18,ajutand clienti...,
+Str_Loading_19,cresterea hackerilor...,
+Str_Loading_20,impresionand investitori...,
+Str_Loading_21,planificarea pensionarii...,
+Str_Loading_22,punerea pe casti de anulare a zgomotului?,
+Str_GameEnd_Congratulations,"Felicitari, ai facut cu succes o iesire din compania ta. Multe inceputuri nu apuca ziua asta!",
+Str_GameEnd_ShowScore,Scor,
+Str_GameEnd_ShowHighScores,Scoruri,
+Str_GameEnd_FeatureCount,Functii Dezvoltate,
+Str_GameEnd_FeatureRating,Cel mai bun Rating al unei Functii,
+Str_GameEnd_ProductRating,Evaluare Generala a Functiilor,
+Str_GameEnd_SecurityCoverage,Acoperirea Securitatii,
+Str_GameEnd_TestCoverage,Acoperirea Testelor,
+Str_GameEnd_Users,User Base,
+Str_GameEnd_EmployeeCount,Angajati,
+Str_GameEnd_Valuation,Evaluare Finala,
+Str_GameEnd_YourCash,Banii Tai,
+Str_Story_DeadUncle_Opening,"Three weeks ago, your great uncle {UncleName} passed away after a tragic shoe shopping incident. In his will he left you a sum of $50,000 knowing full well what you would do with it. Distraught, yet excited about the break you have been given, you quit your day job, register the domain {DomainName}, and begin working on your dream startup idea. Here is your story...",
+Str_Story_DeadUncle_FailedEnding,You have gone bankrupt! Your uncle rolls in his grave as you burn up the last dollar.,
+Str_Story_MummysChild_Opening,"Tired of you living off their retirement savings, your parents {MumName} and {DadName} finally give you an ultimatum: Get a job in 30 days or else. Knowing you could never work for É??the manÉ?ù, you pool your savings and borrow enough to start your own company: {CompanyName}. É??How hard could it be?É?ù you think to yourself...",
+Str_Story_MummysChild_FailedEnding,You have gone bankrupt! You take a job at Burgers-R-Us and move back into your parents' basement. Nothing ever changes...,
+Str_Story_YouAreFired_Opening,"Two days ago you were let go from your job. É??It's not you, it's usÉ?ù they said. É??Our visions are misalignedÉ?ù they said. Bogus!!! Amidst your anger you have a moment of clarity. You decide to finally pursue that cool little idea you have had for so long: {CompanyName}. If you are ever going to do it, now is the time. Here is your story...",
+Str_Story_YouAreFired_FailedEnding,You have gone bankrupt! You go back to your former employer and beg for your job back. You're given an admin position at half your old salary. Life is grand...,
+Str_Story_Begin,Incepe,
+Str_Story_TryAgain,Incearca din nou,
+Str_Backlog_Backlog,Backlog,
+Str_Backlog_NewFunctionalFeature,Functie,
+Str_Backlog_NewPerformanceFeature,Performanta,
+Str_Backlog_NewSecurityFeature,Securitate,
+Str_Backlog_NewTest,Test,
+Str_Backlog_SprintBacklog,Urmatoarea Tura,
+Str_Backlog_TeamCapacity,Capacitatea echipei per tura,
+Str_Backlog_Hint_AddComponents,"Apasa click stanga ca sa adaugi o componenta technica.
+Apasa click dreapta ca sa adaugi o componenta de design.",
+Str_Backlog_Hint_EnoughComponents,Two components are enough this early in your venture. Let's add this feature to the next sprint.,
+Str_Backlog_Hint_SecurityFeature,Security features protect surrounding feature components from security attacks.,
+Str_Backlog_Hint_PerformanceFeature,"Performance features speed up neighboring feature components.
+Right click to change their direction.",
+Str_Backlog_Hint_Test,"Tests reduce the number of bugs in surrounding feature components.
+Right click to change their orientation.",
+Str_Backlog_Hint_SelectMarketArea,Select the area of the market you want to research. It's often best to pick an area connected to what's already researched.,
+Str_Backlog_DevEffort,Efort-ul Dev-ului,
+Str_Backlog_DesignEffort,Efort-ul Designerului,
+Str_Backlog_AddToSprint,Adauga in Tura,
+Str_Backlog_Discard,Anuleaza,
+Str_Backlog_Mode_Features,Functii,
+Str_Backlog_Mode_Tests,Teste,
+Str_Backlog_Mode_Security,Securitate,
+Str_Backlog_Mode_Performance,Performanta,
+Str_Backlog_Mode_Ratings,Rating-uri,
+Str_Backlog_Metrics_Title,Masuratorile Produsului,
+Str_Feature_Rating,Rating,
+Str_Feature_Performance,Performanta,
+Str_Feature_Bugs,Buguri,
+Str_Feature_DesignTechRatio,Ratio al Design-ului / Tech-ului ,
+Str_Feature_NoUpgrades,Niciun Upgrade,
+Str_Feature_RequestedFeature,Functie Ceruta,
+Str_Feature_Deprecate,Dezaproba,
+Str_Feature_Details,Detalii,
+Str_Infrastructure_DataCenters,Centre de Date,
+Str_Infrastructure_Servers,Servere,
+Str_Infrastructure_Topology,Topologie,
+Str_Infrastructure_ServerCost,Pretul Serverului,
+Str_Infrastructure_NetworkCost,Pretul Internetului,
+Str_Infrastructure_Activate,Activeaza,
+Str_Infrastructure_Deactivate,Dezactiveaza,
+Str_Infrastructure_Africa,Africa,
+Str_Infrastructure_Asia,Asia,
+Str_Infrastructure_Australia,Australia,
+Str_Infrastructure_Europe,Europa,
+Str_Infrastructure_NorthAmerica,America de Nord,
+Str_Infrastructure_SouthAmerica,America de Sud,
+Str_Infrastructure_TrafficPercent,Trafic: {0:P0},
+Str_Infrastructure_CPUCores,Socketuri Procesor,
+Str_Infrastructure_Memory,Memorie,
+Str_Infrastructure_MaxLoad,Maximum Load,
+Str_Infrastructure_Size,Marime,
+Str_Infrastructure_MonthlyRent,Intretinere Lunara,
+Str_Infrastructure_AutoScalingNote,"NB: Acesta este un auto-scaling server. Trebuie doar platit, capacitatea utilizata.",
+Str_Infrastructure_Requirement,Ai nevoie de Infrastructura de Nivel {0} ,
+Str_Infrastructure_Topology_Starter,Incepator,
+Str_Infrastructure_Topology_Starter_Desc,Un centru de date acrtiv cu un server,
+Str_Infrastructure_Topology_LoadBalanced,Incarcare Balantata,
+Str_Infrastructure_Topology_LoadBalanced_Desc,Un centru de date activ cu mai multe servere,
+Str_Infrastructure_Topology_LoadBalanced2,Incarcare Balantata - Avansata,
+Str_Infrastructure_Topology_LoadBalanced2_Desc,Mai multe centre de date active cu mai multe servere,
+Str_Infrastructure_Research,Cerceteaza,
+Str_Infrastructure_Researching,In curs de cercetare...,
+Str_Stats_Finances,Finante,
+Str_Stats_SalesChannels,Canalele de vanzari,
+Str_Stats_CustomerAcquisition,Customer Acquisition,
+Str_Stats_CustomerFunnel,Customer Acquisition Funnel (Past 4 Weeks),
+Str_Stats_Current,Current,
+Str_Stats_Historic,Istoric,
+Str_Stats_SixWeeks,Sase Saptamani,
+Str_Stats_SixMonths,Sase Luni,
+Str_Stats_AllTime,Tot Timpul,
+Str_Stats_Visitors,Vizitatori,
+Str_Stats_VisitorsCount,Vizitatori: {0},
+Str_Stats_Signups,Inregistrari,
+Str_Stats_SignupsCount,Inregistrari: {0} ({1:P0}),
+Str_Stats_Churn,Churn,
+Str_Stats_ChurnCount,Churn: {0} ({1:P0}),
+Str_Stats_VisitorsPerSalesChannel,Procentul de Vizitatori per Canal de Vanzari,
+Str_Stats_Expenditure,Cheltuieli,
+Str_Stats_Revenue,Profit,
+Str_Stats_Salaries,Salarii,
+Str_Stats_Marketing,Marketing,
+Str_Stats_Infrastructure,Infrastructura,
+Str_Stats_OfficeRent,Chiria Biroului,
+Str_Stats_OfficeUpkeep,Intretinerea Biroului,
+Str_Stats_Income,Venit,
+Str_Stats_Tiers,Nivel,
+Str_Stats_IncomingOutgoing,Intrare si Iesire,
+Str_Stats_TotalCash,Totalul Banilor,
+Str_Stats_RevenueVsExpenditure,Venituri vs Cheltuieli,
+Str_Stats_NoData,Nu exista date suficiente,
+Str_Stats_ProductNotLaunched,Produsul nostru nu a fost lansat inca.,
+Str_Stats_Cash,Bani,
+Str_Email_64KStreaming_Subject,64K Streaming Squeezes Internet,
+Str_Email_64KStreaming_Body,"With the rise of 64K content, more and more streaming services are offering it as a default option to their customers. Given the massive pressure this places on internet infrastructure, a rise in price of network bandwidth is expected at least in the short term.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_StoryYouAreFiredWelcome_Subject,Decizia dvs. este finalizata,
+Str_Email_StoryYouAreFiredWelcome_Body,"Hi {{FirstName}},
+
+You would have seen your severance documents in an earlier email. I hope there are no hard feelings. I would say that you have contributed so much to our company, that it has been a pleasure working with you all these years, but it hasn't so I won't. I know you have these delusions of grandeur about becoming the next big startup founder. My advice: don't! Go find yourself a job and get on with your life. Then again what do I care!
+
+
+Your ex-boss,
+
+{{SenderName}}",
+Str_Email_StoryMummysChildWelcome_Subject,Mult noroc draga!,
+Str_Email_StoryMummysChildWelcome_Body,"Hey {{FirstName}},
+
+I just wanted say again that even though this is probably the worst decision you have made in your life, your dad and I fully support you in whatever you are doing. Our door is always open if you decide to come back and stay with us.
+
+
+
+Lots of love and kisses,
+
+Mum and dad
+
+
+
+P.S. don't forget to drop off your laundry on Saturday.",
+Str_Email_StoryDeadUncleWelcome_Subject,Depozitul dvs. numerar?,
+Str_Email_StoryDeadUncleWelcome_Body,"Dear {{FirstName}},
+
+
+My name is {{SenderName}}, the executor of your late uncle's will. Per his instructions (and despite the immediate family's many attempts to modify the contents of the will), I have deposited $50,000 to your bank account. I'm glad the matter is now resolved, because frankly I couldn't take any more of it...
+
+
+
+Good day to you {{SirOrMadam}},
+
+{{SenderName}}",
+Str_Email_Airono_Subject,Airono Spells É??Oh NoÉ?ù for Commercial Property Owners,
+Str_Email_Airono_Body,"Airono, the self proclaimed É??Airbnb for OfficesÉ?ù has seen a huge uptake in recent months, leading to more and more business owners sharing office space in order to cut down costs. This in turn has put downward pressure on property rentals, as owners try to stay competitive in the market.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_BeaversDamEncouragesGrowth_Subject,BeaversÉ?? Dam Boosts Startup Investment,
+Str_Email_BeaversDamEncouragesGrowth_Body,"The new reality show BeaversÉ?? Dam is being attributed to a boost in startup investment. The show, which began airing last year, allows entrepreneurs to pitch ideas to high profile investors using only interpretive dance and facial expressions.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_BestSellerWarns_Subject,Best Seller Warns of Technology,
+Str_Email_BestSellerWarns_Body,"The novel É??The Man Who Couldn't Look UpÉ?ù which was released two weeks ago is already shattering sales records internationally. The author, Chip Pascal, admitted that this cautionary tale was not intended to scare people of technology but simply indulge in a realistic what-if scenario. Nevertheless, economists are already seeing its impact on consumer and business tech spending.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_CandidatePoolIncrease_Subject,Our pool of candidates has increased to {{PoolSize}}!,
+Str_Email_CandidatePoolIncrease_Body,"Buna Ziua {{CeoFirstName}},
+    
+Due to our valiant efforts we are now getting an average of {{PoolSize}} candidates knocking at our door at any given time. We better take advantage of it!
+    
+
+Yours Sincerely,
+    
+{{SenderName}}
+
+
+
+Candidates: +1",
+Str_Email_CandidateQualityIncrease_Subject,The quality of our candidates has improved!,
+Str_Email_CandidateQualityIncrease_Body,"Buna {{CeoFirstName}},
+    
+Focusul nostru pentru PR chiar a meritat! In medie pe care-I gasim au la abtitudine un +1..
+    
+
+Cu sinceritate,
+    
+{{SenderName}}
+
+
+Abtitudinile Candidatiilor: +1",
+Str_Email_CapsuleOfficesDriveRentDown_Subject,Capsule Offices Drive Down Property Rentals,
+Str_Email_CapsuleOfficesDriveRentDown_Body,"Capsule rooms, once only associated with Japanese hotels, have taken off in the business office space market in a big way. More and more businesses are choosing to go down this route in order to save on rent and electricity costs. Some offices are even carrying out preliminary tests on capsule meeting rooms and kitchens. The impact of all the extra space has been an overall drop in commercial property rentals.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_CloudWars_Subject,Cloud Infrastructure Wars,
+Str_Email_CloudWars_Body,"With the entry of dozens of cloud infrastructure providers like BitsUp, DataHeaven, and SoFluffy into the market, competition is at all time high. While many believe that most of these offerings will not see the test of time, in the short run at least consumers can expect lower prices.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_ClownWorldcup_Subject,Masses Flood in for Clown Worldcup,
+Str_Email_ClownWorldcup_Body,"After 4 long years, the Clown Worldcup is finally right around the corner. Over the next few months the very best the clown profession has to offer, along with their most die hard fans will flood into our very own town. Despite the mayor's re-assurances of residence and parking availability, experts are warning of increased congestion and expect rental costs to sky rocket.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_CoffeeDrivesUpRent_Subject,Coffee Drives Up Commercial Property Rentals,
+Str_Email_CoffeeDrivesUpRent_Body,"It's no secret that coffee is no longer regarded as the bitter beverage it actually is. It has become a vehicle for promoting one's social status, much the same way as one's brand of shoes or choice of car. What is only just coming into the fore is how our coffee spending habit is affecting commercial rental properties. More and more businesses are choosing to rent their offices in city centers with access to better baristas and coffee options, in order to keep employees happy. This has in turn caused a spike in rents.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_CurrencyStrong_Subject,Dollar Strong Against Major Currencies,
+Str_Email_CurrencyStrong_Body,"The dollar has been rising steadily over the past two months. Analysts expect the trend to continue for some time before leveling off. This trend has had a noticeable impact on exports and foreign spending.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_CurrencyWeak_Subject,Dollar Weak Against Major Currencies,
+Str_Email_CurrencyWeak_Body,"The weakening dollar is expected to fall even further over the coming months. Economists are welcoming this trend as it directly increases foreign spending and export revenue.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_DietFadBudget_Subject,6 Course Diet Fad Strains Budgets,
+Str_Email_DietFadBudget_Body,"A new diet advocated by self-proclaimed nutritionist Kale Curry is taking the world by storm. The diet, which advocates eating a 6 course meal, 4 times a day, is having a major impact on disposable income of middle class consumers.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_EmploymentPeak_Subject,Unemployment Drops to an All Time Low!,
+Str_Email_EmploymentPeak_Body,"The rate of unemployment has plummeted in the past month. Many workers are looking to jump ship for better pay and conditions.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_GameOfDronesMention_Subject,{{CompanyName}} Gets a Mention in Game of Drones,
+Str_Email_GameOfDronesMention_Body,"The popular TV series Game of Drones is known to reference real world companies and organizations, the latest being {{CompanyName}}. The show is set in a post-apocalyptic world where various AI entities wage war in an attempt for domination. Many of these entities are rooted in present day tech companies.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_GarbageHero_Subject,Garbage Hero AR Goes Viral,
+Str_Email_GarbageHero_Body,"Augmented reality game Garbage Hero AR has gone viral since its release date last week, seeing millions of people world-wide take to the street to clean up virtual rubbish. The trash is randomly placed throughout suburban and city areas. Analysts believe the success of the game will contribute to an overall increase of capital spent by tech investors.
+
+In related news, several city councils have reported a marked increase in actual littering.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_HackacomClosesDoors_Subject,Hackacom Closes its Doors,
+Str_Email_HackacomClosesDoors_Body,"After two years of financial struggle and failing to secure and acquisition, the multinational giant Hackacom has finally filed for bankruptcy, and will be closing all but two of its offices. It is believed that the majority of the 30,000 employees will be made redundant over the next two weeks.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_InvestmentTaxBreak_Subject,New Tax Breaks to Favor Startup Investors,
+Str_Email_InvestmentTaxBreak_Body,"A new set of tax legislation announced yesterday have created big incentives for early stage startup investors. These tax breaks are expected to be in effect before the end of the financial year.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_InvestmentTaxIncrease_Subject,New Taxes Disappoint Startup Investors,
+Str_Email_InvestmentTaxIncrease_Body,"A newly introduced set of tax laws is expected to cause significant downsizing of startup investment. The sweeping changes affect all major industries and will reduce early startup spending by as much as 30%.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_Junk-BinocularsWeekly_Subject,FELICITARI!!!,
+Str_Email_Junk-BinocularsWeekly_Body,"Congratulations!! You have just won a two year subscription to Binoculars Weekly magazine! <b>Click here</b> to claim your prize.
+
+
+BV",
+Str_Email_Junk-BluePillRedPill_Subject,Source Supplements!!,
+Str_Email_Junk-BluePillRedPill_Body,"Knock knock,
+
+My name is Pasithea and I would like to offer you some life changing supplements which I think you have been looking for some time. For a limited time, we are offering our blue pill and red pill collection for half price! The blue pills are fantastic for relaxation, improved sleep, and the closest thing to a cure for insomnia. The red pills will give you that extra boost in the morning and keep you alert all day. 
+
+Typically we would conduct business face to face (that is my son's preferred method), but given the booming nature of this business, email would be the quickest way. Simply reply to this email with the quantity required.
+
+
+Pasithea
+
+
+P.S. side effects of the red pill may include vomiting, confusion, increased aggression, fashion change, blindness, and ultimately crucifixion.",
+Str_Email_Junk-BritishPrinces_Subject,YOUR ASSISTANCE - STRICTLY CONFIDENTIAL,
+Str_Email_Junk-BritishPrinces_Body,"Good day,
+
+My name is Ben Dover, attorney of law to the late Princess Charlotte of Wales. I appreciate that the name of Her Royal Highness may be unfamiliar to you; this is because the royal family has, for years, systematically hidden her from the eyes of the public and media due to her unorthodox parentage. Two months ago, when the Princess passed away tragically in a pigeon racing incident (the circumstances of which I still question to this day), she left behind an estate worth two hundred and fifty two million dollars ($252,000,000). This is where I need your help!
+
+As you can appreciate there are those in the royal family who would rather not see this money go to Princess Charlotte's children and wish to bury her legacy along with her. Being the only person working on her behalf, I need your help transferring the full amount to an off-shore account where it can be kept safe. I assure you that my intentions are sincere and that you can trust me. Of course you will also be rewarded for your help. You will just need to follow these simple steps:
+
+1) I will make a full deposit to an account of your choosing.
+
+2) Immediately upon receiving the deposit, you will need to transfer 2 sums to an account which I will provide to you. The first transfer must be for $3.20 and the second for the amount of $7822.32.
+
+3) Shortly thereafter you will receive a package in your mail, from one Pepe Didi. IT IS IMPARATIVE THAT YOU DO NOT OPEN THIS PACKAGE! Please burn it immediately.
+
+4) Over the following three weeks you may notice unusual activity nearby your home, or surrounding streets. Please disregard these and do not be alarmed. Simply ensure your curtains/blinds are closed at all times and stay away from windows whilst at home.
+
+5) At the end of the three weeks transfer 90% of the money ($226,800,000) to the aforementioned account. The remaining $25,200,000 is your reward for helping me with this transaction.
+
+
+Thank you again, and I trust that you will get back to me very soon.
+
+
+
+Yours Sincerely,
+
+Ben Dover",
+Str_Email_Junk-MarryMe_Subject,HELLO MY DEAR,
+Str_Email_Junk-MarryMe_Body,"MY DEAR,
+
+I AM HAPPY TO FIND YOUR EMAIL. I AM THE FATHER OF 12 CHILDREN WHO ARE CANADIANS, BUT NOW I LIVE IN JORDAN. I WANT TO MEET SOMEONE LIKE YOU, PERHAPS BECAUSE OF FRIENDSHIP, OR MAYBE SOMEHOW WE MARRY OR NOT, I LOVE TO SEE YOU AND GET THE TIME, PLEASE WRITE TO ME!
+
+
+JACK",
+Str_Email_Junk-NinjaStars_Subject,Ninja stars,
+Str_Email_Junk-NinjaStars_Body,"Have you got any smaller premium double razored stainless steel ninja stars i will be prepared to pay up to $20K each for this product.
+
+Anonymous",
+Str_Email_Junk-NotificationOfCheese_Subject,Notification Of Cheese,
+Str_Email_Junk-NotificationOfCheese_Body,"It has come to our attention that you may be entitled to an
+undisclosed number of unclaimed cheese wheels. 
+
+If so, these cheeses are currently reserved in your name and waiting 
+for you to claim.
+
+Please enter your name at the unclaimed cheese search engine
+located at our site.
+<b>Click Here</b>
+
+Unclaimed Cheese Department
+
+
+We take your privacy very seriously and it is our policy never to send 
+unwanted email messages. This message has been sent to you because
+you originally signed up with a party that has contracted with Cheese Nation.
+
+To unsubscribe <b>click here</b> or go to and enter your
+email address.
+
+Cheese Nation
+1003 E. Pronsco
+Rockport, TX 93849",
+Str_Email_Junk-WealthDreams_Subject,Get Paid While You Sleep!!!,
+Str_Email_Junk-WealthDreams_Body,"Who said you need to put in a hard day's work to earn money? Now you can do it while you sleep, literally! Simply install our app, Wealth Dreams, on your phone, enter your banking details and head to bed. Our app detects your sleep patterns and rewards you sweet sweet cash. The more hours you sleep, the more we pay; no questions asked!
+
+<b>Click here</b> to get started now...",
+Str_Email_MarketCrash_Subject,News: Commodity Prices Collapse...,
+Str_Email_MarketCrash_Body,"The past month has seen a major shift in commodity prices with the market losing at least 7% of value, affecting all major sectors. These changes are expected to continue for the next three months.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_MarketResearchReport_Subject,Market Research Report {{ReportNumber}}!,
+Str_Email_MarketResearchReport_Body,"Hi {{CeoFirstName}},
+    
+Here is the report you asked for:    
+
+{{ReportBody}}
+
+Thanks,
+    
+{{SenderName}}",
+Str_Email_MikeTysonEndorsement_Subject,Mike Tyson: É??I Start My Day with {{CompanyName}}É?ù,
+Str_Email_MikeTysonEndorsement_Body,"In a rare interview with the former heavyweight boxing champion, Mike Tyson revealed that he is one of the first adopters of {{CompanyName}}. The interview, which aired on Sunday night, attracted 50 million viewers worldwide.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_PeaceInMiddleEast_Subject,Peace in the Middle East!,
+Str_Email_PeaceInMiddleEast_Body,"In a shocking development, peace was reached in the Middle East last night. The global community is unanimously confused.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_PiracyOnHold_Subject,Digital Piracy On Temporary Hold,
+Str_Email_PiracyOnHold_Body,"In the wake of last week's heartfelt music video É??Heal the Digital PainÉ?ù, a collaboration of 122 of world's greatest musicians, internet users everywhere have agreed to temporarily pause illegal downloading of all media including the game called Startup Freak.
+
+Experts believe the reduced load on the internet should result in reduced network bandwidth costs for many users and businesses.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_PrincePhilipRejection_Subject,Prince Phillip calls {{CompanyName}} É??An Utter DisgraceÉ?ù,
+Str_Email_PrincePhilipRejection_Body,"In a rare and extremely specific statement, Prince Phillip has called {{CompanyName}} 'an utter disgrace', accusing it of greedy and anti-competitive behaviour. The motivations behind this statement are still unclear but experts are calling it a case of being a 'grumpy old man'.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_SecurityAttackFailed_Subject,Urgent: Diffused Security Attack...,
+Str_Email_SecurityAttackFailed_Body,"Hi {{CeoFirstName}},
+
+It looks like last night we had a level {{AttackLevel}} security attack on our servers. Thanks to our team's effort the attack was ineffective, so well done. Keep up the good work on the security front!
+
+Thanks,
+
+{{SenderName}}",
+Str_Email_SecurityAttackSucceeded_Subject,Urgent: Serious Security Vulnerability!,
+Str_Email_SecurityAttackSucceeded_Body,"Hi {{CeoFirstName}},
+
+Not sure how to break this to you, but we have had a level {{AttackLevel}} security breach early this morning. The scope of the attack is still not clear but there will be a big fallout from this.
+
+The team has already found and patched the issue. I know you keep pushing for more features, but we've got to invest in our security more!
+
+
+Have a nice day (figure of speech),
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_SolomonIslandsRussiaWar_Subject,Solomon Islands Carries Out Military Operation Near Russia,
+Str_Email_SolomonIslandsRussiaWar_Body,"Overnight Solomon Islands carried out several naval exercises near the east coast of Russia, prompting an emergency congressional meeting in Kremlin. While the exact circumstances and motivations behind these exercises are not yet clear, the backlash is already impacting local and international communities.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_SpeechDriesCandidates_Subject,Inspirational Speech Dries Up Job Applications,
+Str_Email_SpeechDriesCandidates_Body,"An inspiration speech by the well-known entrepreneur, and college drop-out, Stephanie Gigs at several national universities is being seen as the reason for an unprecedented number of students either dropping out of school, or not entering the job market. With many choosing to pursue their own startup dreams, many companies will be experiencing a shortage of qualified candidates or the coming months.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_SquidsDamageBackbone_Subject,Giant Squids Damage Internet Backbone,
+Str_Email_SquidsDamageBackbone_Body,"Scientist have confirmed that the major disruptions observed in the transatlantic backbone cables two days ago was caused by a newly discovered strain of Giant Squids, never before seen at such depths. While the reason behind this behaviour is not clear, scientists suspect that the cables may be presenting themselves as tentacles of rival squids.
+
+The damage to the cables was extensive and is expected to put upward pressure on network bandwidth costs.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_StartupGame_Subject,Startup Game Rejuvenates Industry,
+Str_Email_StartupGame_Body,"Newly released video game É??Startup FreakÉ?ù is being attributed to new wave of interest in the startup scene. They hyper-realistic simulation not only perfectly captures the challenges and subtleties of running a software startup, it does a brilliant job of avoiding typical genre clich??s such as self-referential jokes and breaking the forth wall.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_StatueOfFreedomFry_Subject,USA Gifts Statue of Freedom Fry to France,
+Str_Email_StatueOfFreedomFry_Body,"Today the White House announced that in the spirit of reciprocity they will be gifting the Statue of Freedom Fry, an eighty meter monument, to the French government. In a press conference, the French president graciously accepted the gift and rejected suggestion that it is sarcastic in nature. Markets internationally are expected to see a positive boost following this news.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_StocksDownSupermanTrailer_Subject,All Major Stocks Down Following Latest Superman Trailer,
+Str_Email_StocksDownSupermanTrailer_Body,"An anonymous and untitled online trailer for the upcoming Superman film has sent investors into a selling frenzy, causing massive losses in many major stock markets. The trailer, which went viral drawing in nearly a billion views, makes use of a É??shaky camÉ?ù technique, depicting an extremely realistic destruction of several famous buildings around the globe. Many are calling it the greatest widespread panic caused by a fictional work, since the 1938 airing of War of the Worlds.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_StocksUpMoonsAlign_Subject,Major Indexes Soar as All Moons Align,
+Str_Email_StocksUpMoonsAlign_Body,"In a É??once in a 100 million yearsÉ?ù event, all 181 moons in the Solar system will align during the early hours on Thursday. This rare event is being interpreted as a sign of good fortune by many investors, causing a surge in share prices across many industries.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_SwedenNewZealandWar_Subject,Sweden Declares War on New Zealand!,
+Str_Email_SwedenNewZealandWar_Body,"Following months of tension between the two countries, Sweden has carried out an attack on New Zealand early this morning, killing 68 sheep and injuring several others. The New Zealand Prime Minister is yet to issue a statement but experts believe a husbandry retaliation is likely. Widespread impact on global economy is expected.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_UnemploymentPeak_Subject,Unemployment Rises to an All Time High!,
+Str_Email_UnemploymentPeak_Body,"Rata somajului a crescut puternic in ultimul trimestru, cu mii de locuri de munca.
+
+
+{{SenderName}}
+
+
+
+{{Impact}}",
+Str_Email_EmployeeQuit_Subject,"So Long",
+Str_Email_EmployeeQuit_Body,"It has been a wonderful ride, but I honestly can't do this anymore. Good luck!"
