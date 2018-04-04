@@ -27,6 +27,7 @@ Str_Menu_Save,"Save",
 Str_Menu_Overwrite,"Overwrite",
 Str_Menu_Options,"Options",
 Str_Menu_HighScores,"High Scores",
+Str_Menu_Credits,"Credits",
 Str_Menu_Return,"Return to Game",
 Str_Menu_Exit,"Exit",
 Str_Misc_Company,"Company",
@@ -542,76 +543,76 @@ Str_Task_Branding_Level9,"• Unlock new logos",
 Str_Task_Branding_Level10,"• Unlock new logos",
 Str_Task_OutboundMarketing,"Outbound Marketing",
 Str_Task_OutboundMarketing_Desc,"Reach out directly to potential customers using methods like cold emails and cold calls.",
-Str_Task_OutboundMarketing_Level1,"• Unlock cold calls
+Str_Task_OutboundMarketing_Level1,"• Unlock a new outbound marketing activity
 • Increase outbound marketing budget to $1,000",
 Str_Task_OutboundMarketing_Level2,"• Increase outbound marketing budget to $3,000",
 Str_Task_OutboundMarketing_Level3,"• Increase outbound marketing budget to $6,000",
 Str_Task_OutboundMarketing_Level4,"• Increase outbound marketing budget to $10,000",
-Str_Task_OutboundMarketing_Level5,"• Unlock cold emails
+Str_Task_OutboundMarketing_Level5,"• Unlock a new outbound marketing activity
 • Increase outbound marketing budget to $15,000",
 Str_Task_OutboundMarketing_Level6,"• Increase outbound marketing budget to $21,000",
 Str_Task_OutboundMarketing_Level7,"• Increase outbound marketing budget to $28,000",
-Str_Task_OutboundMarketing_Level8,"• Unlock mailing lists
+Str_Task_OutboundMarketing_Level8,"• Unlock a new outbound marketing activity
 • Increase outbound marketing budget to $36,000",
 Str_Task_OutboundMarketing_Level9,"• Increase outbound marketing budget to $45,000",
 Str_Task_OutboundMarketing_Level10,"• Increase outbound marketing budget to $55,000",
 Str_Task_InboundMarketing,"Inbound Marketing",
 Str_Task_InboundMarketing_Desc,"Use inbound marketing methods like blogging, SEO and video content.",
-Str_Task_InboundMarketing_Level1,"• Unlock blogging
+Str_Task_InboundMarketing_Level1,"• Unlock a new inbound marketing activity
 • Increase inbound marketing budget to $1,000",
 Str_Task_InboundMarketing_Level2,"• Increase inbound marketing budget to $3,000",
 Str_Task_InboundMarketing_Level3,"• Increase inbound marketing budget to $6,000",
 Str_Task_InboundMarketing_Level4,"• Increase inbound marketing budget to $10,000",
-Str_Task_InboundMarketing_Level5,"• Unlock SEO and Search Ads
+Str_Task_InboundMarketing_Level5,"• Unlock a new inbound marketing activity
 • Increase inbound marketing budget to $15,000",
 Str_Task_InboundMarketing_Level6,"• Increase inbound marketing budget to $21,000",
 Str_Task_InboundMarketing_Level7,"• Increase inbound marketing budget to $28,000",
-Str_Task_InboundMarketing_Level8,"• Unlock mailing lists
+Str_Task_InboundMarketing_Level8,"• Unlock a new inbound marketing activity
 • Increase inbound marketing budget to $36,000",
 Str_Task_InboundMarketing_Level9,"• Increase inbound marketing budget to $45,000",
 Str_Task_InboundMarketing_Level10,"• Increase inbound marketing budget to $55,000",
 Str_Task_SocialMedia,"Social Media",
 Str_Task_SocialMedia_Desc,"Use social networking to reach larger groups of people, like MyFace, Barker, and Pictasia.",
-Str_Task_SocialMedia_1,"• Unlock MyFace Ads
+Str_Task_SocialMedia_1,"• Unlock a new social media marketing activity
 • Increase social marketing budget to $1,000",
 Str_Task_SocialMedia_2,"• Increase social marketing budget to $3,000",
 Str_Task_SocialMedia_3,"• Increase social marketing budget to $6,000",
 Str_Task_SocialMedia_4,"• Increase social marketing budget to $10,000",
-Str_Task_SocialMedia_5,"• Unlock Barker Ads
+Str_Task_SocialMedia_5,"• Unlock a new social media marketing activity
 • Increase social marketing budget to $15,000",
 Str_Task_SocialMedia_6,"• Increase social marketing budget to $21,000",
 Str_Task_SocialMedia_7,"• Increase social marketing budget to $28,000",
-Str_Task_SocialMedia_8,"• Unlock Pictasia Ads
+Str_Task_SocialMedia_8,"• Unlock a new social media marketing activity
 • Increase social marketing budget to $36,000",
 Str_Task_SocialMedia_9,"• Increase social marketing budget to $45,000",
 Str_Task_SocialMedia_10,"• Increase social marketing budget to $55,000",
 Str_Task_TraditionalMedia,"Traditional Media",
 Str_Task_TraditionalMedia_Desc,"Reach potential customers through TV and radio ads, newspapers and billboards",
-Str_Task_TraditionalMedia_Level1,"• Unlock Newspaper Ads
+Str_Task_TraditionalMedia_Level1,"• Unlock a new traditional media marketing activity
 • Increase traditional media marketing budget to $1,000",
 Str_Task_TraditionalMedia_Level2,"• Increase traditional media marketing budget to $3,000",
 Str_Task_TraditionalMedia_Level4,"• Increase traditional media marketing budget to $6,000",
 Str_Task_TraditionalMedia_Level3,"• Increase traditional media marketing budget to $10,000",
-Str_Task_TraditionalMedia_Level5,"• Unlock Radio Ads
+Str_Task_TraditionalMedia_Level5,"• Unlock a new traditional media marketing activity
 • Increase traditional media marketing budget to $15,000",
 Str_Task_TraditionalMedia_Level6,"• Increase traditional media marketing budget to $21,000",
 Str_Task_TraditionalMedia_Level7,"• Increase traditional media marketing budget to $28,000",
-Str_Task_TraditionalMedia_Level8,"• Unlock TV Ads
+Str_Task_TraditionalMedia_Level8,"• Unlock a new traditional media marketing activity
 • Increase traditional media marketing budget to $36,000",
 Str_Task_TraditionalMedia_Level9,"• Increase traditional media marketing budget to $45,000",
 Str_Task_TraditionalMedia_Level10,"• Increase traditional media marketing budget to $55,000",
 Str_Task_Events,"Events",
 Str_Task_Events_Desc,"Reach people by attending conferences, meetups and pretentious cocktail parties",
-Str_Task_Events_Level1,"• Unlock Local Meetup Sponsorship
+Str_Task_Events_Level1,"• Unlock a new event marketing activity
 • Increase event marketing budget to $1,000",
 Str_Task_Events_Level2,"• Increase event marketing budget to $3,000",
 Str_Task_Events_Level3,"• Increase event marketing budget to $6,000",
 Str_Task_Events_Level4,"• Increase event marketing budget to $10,000",
-Str_Task_Events_Level5,"• Unlock International Conference Sponsorship
+Str_Task_Events_Level5,"• Unlock a new event marketing activity
 • Increase event marketing budget to $15,000",
 Str_Task_Events_Level6,"• Increase event marketing budget to $21,000",
 Str_Task_Events_Level7,"• Increase event marketing budget to $28,000",
-Str_Task_Events_Level8,"• Unlock Competitions.
+Str_Task_Events_Level8,"• Unlock a new event marketing activity
 • Increase event marketing budget to $36,000.",
 Str_Task_Events_Level9,"• Increase event marketing budget to $45,000",
 Str_Task_Events_Level10,"• Increase event marketing budget to $55,000",
@@ -765,10 +766,10 @@ Str_Backlog_Hint_AddComponents,"Left click to add a technical component.
 Right click to add a design component.",
 Str_Backlog_Hint_EnoughComponents,"Two components are enough this early in your venture. Let's add this feature to the next sprint.",
 Str_Backlog_Hint_SecurityFeature,"Security features protect surrounding feature components from security attacks.",
-Str_Backlog_Hint_PerformanceFeature,"Performance features speed up neighboring feature components.
-Right click to change their direction.",
-Str_Backlog_Hint_Test,"Tests reduce the number of bugs in surrounding feature components.
-Right click to change their orientation.",
+Str_Backlog_Hint_PerformanceFeature,"Performance features increase the rating of neighbouring features.",
+Str_Backlog_Hint_PerformanceFeature_Rotate,"Right click to change the orientation of your performance feature.",
+Str_Backlog_Hint_Test,"Tests reduce the number of bugs in surrounding feature components.",
+Str_Backlog_Hint_Test_Rotate,"Right click to change the orientation of your test.",
 Str_Backlog_Hint_SelectMarketArea,"Select the area of the market you want to research. It's often best to pick an area connected to what's already researched.",
 Str_Backlog_DevEffort,"Dev Effort",
 Str_Backlog_DesignEffort,"Design Effort",

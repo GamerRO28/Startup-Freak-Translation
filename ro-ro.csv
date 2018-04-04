@@ -1,4 +1,4 @@
-Id,Value,Notes
+Id,Valoare,Notes
 Str_Settings_Video,Video,
 Str_Settings_Resolution,Rezolutie,
 Str_Settings_Mode,Mod,Video mode (fullscreen or windowed)
@@ -27,6 +27,7 @@ Str_Menu_Save,Salveaza,
 Str_Menu_Overwrite,Suprascrie,
 Str_Menu_Options,Optiuni,
 Str_Menu_HighScores,Scoruri,
+Str_Menu_Credits,"Credits",
 Str_Menu_Return,Intoarce-te in Joc,
 Str_Menu_Exit,Iesi,
 Str_Misc_Company,Companie,
@@ -542,75 +543,76 @@ Str_Task_Branding_Level9,ï Deblocheaza noi logouri,
 Str_Task_Branding_Level10,ï Deblocheaza noi logouri,
 Str_Task_OutboundMarketing,Marketing Dinafara,
 Str_Task_OutboundMarketing_Desc,Reach out directly to potential customers using methods like cold emails and cold calls.,
-Str_Task_OutboundMarketing_Level1,"ï Unlock cold calls
+Str_Task_OutboundMarketing_Level1,"ï Unlock a new outbound marketing activity
 ï Increase outbound marketing budget to $1,000",
 Str_Task_OutboundMarketing_Level2,"ï Increase outbound marketing budget to $3,000",
 Str_Task_OutboundMarketing_Level3,"ï Increase outbound marketing budget to $6,000",
 Str_Task_OutboundMarketing_Level4,"ï Increase outbound marketing budget to $10,000",
-Str_Task_OutboundMarketing_Level5,"ï Unlock cold emails
+Str_Task_OutboundMarketing_Level5,"ï Unlock a new outbound marketing activity
 ï Increase outbound marketing budget to $15,000",
 Str_Task_OutboundMarketing_Level6,"ï Increase outbound marketing budget to $21,000",
 Str_Task_OutboundMarketing_Level7,"ï Increase outbound marketing budget to $28,000",
-Str_Task_OutboundMarketing_Level8,"ï Unlock mailing lists
+Str_Task_OutboundMarketing_Level8,"ï Unlock a new outbound marketing activity
 ï Increase outbound marketing budget to $36,000",
 Str_Task_OutboundMarketing_Level9,"ï Increase outbound marketing budget to $45,000",
 Str_Task_OutboundMarketing_Level10,"ï Increase outbound marketing budget to $55,000",
 Str_Task_InboundMarketing,Inbound Marketing,
 Str_Task_InboundMarketing_Desc,"Use inbound marketing methods like blogging, SEO and video content.",
-Str_Task_InboundMarketing_Level1,"ï Unlock blogging
+Str_Task_InboundMarketing_Level1,"ï Unlock a new inbound marketing activity
 ï Increase inbound marketing budget to $1,000",
 Str_Task_InboundMarketing_Level2,"ï Increase inbound marketing budget to $3,000",
 Str_Task_InboundMarketing_Level3,"ï Increase inbound marketing budget to $6,000",
 Str_Task_InboundMarketing_Level4,"ï Increase inbound marketing budget to $10,000",
-Str_Task_InboundMarketing_Level5,"ï Unlock SEO and Search Ads
+Str_Task_InboundMarketing_Level5,"ï Unlock a new inbound marketing activity
 ï Increase inbound marketing budget to $15,000",
 Str_Task_InboundMarketing_Level6,"ï Increase inbound marketing budget to $21,000",
 Str_Task_InboundMarketing_Level7,"ï Increase inbound marketing budget to $28,000",
-Str_Task_InboundMarketing_Level8,"ï Unlock mailing lists
+Str_Task_InboundMarketing_Level8,"ï Unlock a new inbound marketing activity
 ï Increase inbound marketing budget to $36,000",
 Str_Task_InboundMarketing_Level9,"ï Increase inbound marketing budget to $45,000",
 Str_Task_InboundMarketing_Level10,"ï Increase inbound marketing budget to $55,000",
 Str_Task_SocialMedia,Social Media,
 Str_Task_SocialMedia_Desc,"Use social networking to reach larger groups of people, like MyFace, Barker, and Pictasia.",
-Str_Task_SocialMedia_1,"ï Deblocheaza Anunturile pe MyFace
+Str_Task_SocialMedia_1,"ï Unlock a new social media marketing activity
 ï Creste bugetul pentru Marketing Social la $1,000",
 Str_Task_SocialMedia_2,"ï Creste bugetul pentru Marketing Social la $3,000",
 Str_Task_SocialMedia_3,"ï Creste bugetul pentru Marketing Social la $6,000",
 Str_Task_SocialMedia_4,"ï Creste bugetul pentru Marketing Social la $10,000",
-Str_Task_SocialMedia_5,"ï Deblocheaza Anunturile pe Barker
+Str_Task_SocialMedia_5,"ï Unlock a new social media marketing activity
 ï Creste bugetul pentru Marketing Social la $15,000",
 Str_Task_SocialMedia_6,"ï Creste bugetul pentru Marketing Social la $21,000",
 Str_Task_SocialMedia_7,"ï Creste bugetul pentru Marketing Social la $28,000",
-Str_Task_SocialMedia_8,"ï Deblocheaza Anunturile pe Pictasia
+Str_Task_SocialMedia_8,"ï Unlock a new social media marketing activity
 ï Creste bugetul pentru Marketing Social la $36,000",
 Str_Task_SocialMedia_9,"ï Creste bugetul pentru Marketing Social la $45,000",
 Str_Task_SocialMedia_10,"ï Creste bugetul pentru Marketing Social la $55,000",
 Str_Task_TraditionalMedia,Media Traditional,
 Str_Task_TraditionalMedia_Desc,"Reach potential customers through TV and radio ads, newspapers and billboards",
-Str_Task_TraditionalMedia_Level1,"ï Unlock Newspaper Ads
+Str_Task_TraditionalMedia_Level1,"ï Unlock a new traditional media marketing activity
 ï Creste bugetul pentru Marketing Media Traditional la $1,000",
 Str_Task_TraditionalMedia_Level2,"ï Creste bugetul pentru Marketing Media Traditional la $3,000",
 Str_Task_TraditionalMedia_Level4,"ï Creste bugetul pentru Marketing Media Traditional la $6,000",
 Str_Task_TraditionalMedia_Level3,"ï Creste bugetul pentru Marketing Media Traditional la $10,000",
-Str_Task_TraditionalMedia_Level5,"ï Deblocheaza Anunturile la Radio
+Str_Task_TraditionalMedia_Level5,"ï Unlock a new traditional media marketing activity
 ï Creste bugetul pentru Marketing Media Traditional la $15,000",
 Str_Task_TraditionalMedia_Level6,"ï Creste bugetul pentru Marketing Media Traditional la $21,000",
 Str_Task_TraditionalMedia_Level7,"ï Creste bugetul pentru Marketing Media Traditional la $28,000",
-Str_Task_TraditionalMedia_Level8,"ï Deblocheaza Anunturile la TV
+Str_Task_TraditionalMedia_Level8,"ï Unlock a new traditional media marketing activity
 ï Creste bugetul pentru Marketing Media Traditional la $15,000",
 Str_Task_TraditionalMedia_Level9,"ï Creste bugetul pentru Marketing Media Traditional la $45,000",
 Str_Task_TraditionalMedia_Level10,"ï Creste bugetul pentru Marketing Media Traditional la $55,000",
 Str_Task_Events,Evenimente,
 Str_Task_Events_Desc,"Reach people by attending conferences, meetups and pretentious cocktail parties",
-Str_Task_Events_Level1,ï Deblocheaza Sponsorizarea Intalnirilor Locale,
+Str_Task_Events_Level1,"ï Unlock a new event marketing activity
+ï Increase event marketing budget to $1,000",
 Str_Task_Events_Level2,"ï Creste bugetul pentru marketing de evenimente la $3,000",
 Str_Task_Events_Level3,"ï Creste bugetul pentru marketing de evenimente la $6,000",
 Str_Task_Events_Level4,"ï Creste bugetul pentru marketing de evenimente la $10,000",
-Str_Task_Events_Level5,"ï Deblocheaza Sponsorizarea Conferintelor Internationale
+Str_Task_Events_Level5,"ï Unlock a new event marketing activity
 ï Creste bugetul pentru marketing de evenimente la $15,000",
 Str_Task_Events_Level6,"ï Creste bugetul pentru marketing de evenimente la $21,000",
 Str_Task_Events_Level7,"ï Creste bugetul pentru marketing de evenimente la $28,000",
-Str_Task_Events_Level8,"ï Deblocheaza Competitiile.
+Str_Task_Events_Level8,"ï Unlock a new event marketing activity
 ï Creste bugetul pentru marketing de evenimente la $36,000.",
 Str_Task_Events_Level9,"ï Creste bugetul pentru marketing de evenimente la $45,000",
 Str_Task_Events_Level10,"ï Creste bugetul pentru marketing de evenimente la $55,000",
@@ -633,7 +635,8 @@ Str_Task_MarketResearch_Level7,"ï Cresterea vizibilitatii pe piata
 ï New market research report",
 Str_Task_MarketResearch_Level8,"ï Cresterea vizibilitatii pe piata
 ï New market research report",
-Str_Task_MarketResearch_Level9,ï Cresterea vizibilitatii pe piata,
+Str_Task_MarketResearch_Level9,"ï Increase market visibility
+ï New market research report",
 Str_Task_MarketResearch_Level10,"ï Cresterea vizibilitatii pe piata
 ï New market research report",
 Str_Task_JobAdvertising,Publicitate pentru Locuri de Munca,
@@ -763,10 +766,10 @@ Str_Backlog_Hint_AddComponents,"Apasa click stanga ca sa adaugi o componenta tec
 Apasa click dreapta ca sa adaugi o componenta de design.",
 Str_Backlog_Hint_EnoughComponents,Two components are enough this early in your venture. Let's add this feature to the next sprint.,
 Str_Backlog_Hint_SecurityFeature,Security features protect surrounding feature components from security attacks.,
-Str_Backlog_Hint_PerformanceFeature,"Performance features speed up neighboring feature components.
-Right click to change their direction.",
-Str_Backlog_Hint_Test,"Tests reduce the number of bugs in surrounding feature components.
-Right click to change their orientation.",
+Str_Backlog_Hint_PerformanceFeature,"Performance features increase the rating of neighbouring features.",
+Str_Backlog_Hint_PerformanceFeature_Rotate,"Right click to change the orientation of your performance feature.",
+Str_Backlog_Hint_Test,"Tests reduce the number of bugs in surrounding feature components.",
+Str_Backlog_Hint_Test_Rotate,"Right click to change the orientation of your test.",
 Str_Backlog_Hint_SelectMarketArea,Select the area of the market you want to research. It's often best to pick an area connected to what's already researched.,
 Str_Backlog_DevEffort,Efort-ul Dev-ului,
 Str_Backlog_DesignEffort,Efort-ul Designerului,
@@ -940,6 +943,7 @@ Cu sinceritate,
 {{SenderName}}
 
 
+
 Abtitudinile Candidatiilor: +1",
 Str_Email_CapsuleOfficesDriveRentDown_Subject,Capsule Offices Drive Down Property Rentals,
 Str_Email_CapsuleOfficesDriveRentDown_Body,"Capsule rooms, once only associated with Japanese hotels, have taken off in the business office space market in a big way. More and more businesses are choosing to go down this route in order to save on rent and electricity costs. Some offices are even carrying out preliminary tests on capsule meeting rooms and kitchens. The impact of all the extra space has been an overall drop in commercial property rentals.
@@ -1102,18 +1106,18 @@ Thank you again, and I trust that you will get back to me very soon.
 Yours Sincerely,
 
 Ben Dover",
-Str_Email_Junk-MarryMe_Subject,HELLO MY DEAR,
+Str_Email_Junk-MarryMe_Subject,"HELLO MY DEAR",
 Str_Email_Junk-MarryMe_Body,"MY DEAR,
 
 I AM HAPPY TO FIND YOUR EMAIL. I AM THE FATHER OF 12 CHILDREN WHO ARE CANADIANS, BUT NOW I LIVE IN JORDAN. I WANT TO MEET SOMEONE LIKE YOU, PERHAPS BECAUSE OF FRIENDSHIP, OR MAYBE SOMEHOW WE MARRY OR NOT, I LOVE TO SEE YOU AND GET THE TIME, PLEASE WRITE TO ME!
 
 
 JACK",
-Str_Email_Junk-NinjaStars_Subject,Ninja stars,
+Str_Email_Junk-NinjaStars_Subject,"Ninja stars",
 Str_Email_Junk-NinjaStars_Body,"Have you got any smaller premium double razored stainless steel ninja stars i will be prepared to pay up to $20K each for this product.
 
 Anonymous",
-Str_Email_Junk-NotificationOfCheese_Subject,Notification Of Cheese,
+Str_Email_Junk-NotificationOfCheese_Subject,"Notification Of Cheese",
 Str_Email_Junk-NotificationOfCheese_Body,"It has come to our attention that you may be entitled to an
 undisclosed number of unclaimed cheese wheels. 
 
@@ -1137,11 +1141,11 @@ email address.
 Cheese Nation
 1003 E. Pronsco
 Rockport, TX 93849",
-Str_Email_Junk-WealthDreams_Subject,Get Paid While You Sleep!!!,
+Str_Email_Junk-WealthDreams_Subject,"Get Paid While You Sleep!!!",
 Str_Email_Junk-WealthDreams_Body,"Who said you need to put in a hard day's work to earn money? Now you can do it while you sleep, literally! Simply install our app, Wealth Dreams, on your phone, enter your banking details and head to bed. Our app detects your sleep patterns and rewards you sweet sweet cash. The more hours you sleep, the more we pay; no questions asked!
 
 <b>Click here</b> to get started now...",
-Str_Email_MarketCrash_Subject,News: Commodity Prices Collapse...,
+Str_Email_MarketCrash_Subject,"News: Commodity Prices Collapse...",
 Str_Email_MarketCrash_Body,"The past month has seen a major shift in commodity prices with the market losing at least 7% of value, affecting all major sectors. These changes are expected to continue for the next three months.
 
 
@@ -1150,7 +1154,7 @@ Str_Email_MarketCrash_Body,"The past month has seen a major shift in commodity p
 
 
 {{Impact}}",
-Str_Email_MarketResearchReport_Subject,Market Research Report {{ReportNumber}}!,
+Str_Email_MarketResearchReport_Subject,"Market Research Report {{ReportNumber}}!",
 Str_Email_MarketResearchReport_Body,"Hi {{CeoFirstName}},
     
 Here is the report you asked for:    
@@ -1160,7 +1164,7 @@ Here is the report you asked for:
 Thanks,
     
 {{SenderName}}",
-Str_Email_MikeTysonEndorsement_Subject,Mike Tyson: É??I Start My Day with {{CompanyName}}É?ù,
+Str_Email_MikeTysonEndorsement_Subject,"Mike Tyson: ‚ÄúI Start My Day with {{CompanyName}}‚Äù",
 Str_Email_MikeTysonEndorsement_Body,"In a rare interview with the former heavyweight boxing champion, Mike Tyson revealed that he is one of the first adopters of {{CompanyName}}. The interview, which aired on Sunday night, attracted 50 million viewers worldwide.
 
 
@@ -1169,7 +1173,7 @@ Str_Email_MikeTysonEndorsement_Body,"In a rare interview with the former heavywe
 
 
 {{Impact}}",
-Str_Email_PeaceInMiddleEast_Subject,Peace in the Middle East!,
+Str_Email_PeaceInMiddleEast_Subject,"Peace in the Middle East!",
 Str_Email_PeaceInMiddleEast_Body,"In a shocking development, peace was reached in the Middle East last night. The global community is unanimously confused.
 
 
@@ -1178,8 +1182,8 @@ Str_Email_PeaceInMiddleEast_Body,"In a shocking development, peace was reached i
 
 
 {{Impact}}",
-Str_Email_PiracyOnHold_Subject,Digital Piracy On Temporary Hold,
-Str_Email_PiracyOnHold_Body,"In the wake of last week's heartfelt music video É??Heal the Digital PainÉ?ù, a collaboration of 122 of world's greatest musicians, internet users everywhere have agreed to temporarily pause illegal downloading of all media including the game called Startup Freak.
+Str_Email_PiracyOnHold_Subject,"Digital Piracy On Temporary Hold",
+Str_Email_PiracyOnHold_Body,"In the wake of last week's heartfelt music video ‚ÄúHeal the Digital Pain‚Äù, a collaboration of 122 of world's greatest musicians, internet users everywhere have agreed to temporarily pause illegal downloading of all media including the game called Startup Freak.
 
 Experts believe the reduced load on the internet should result in reduced network bandwidth costs for many users and businesses.
 
@@ -1189,7 +1193,7 @@ Experts believe the reduced load on the internet should result in reduced networ
 
 
 {{Impact}}",
-Str_Email_PrincePhilipRejection_Subject,Prince Phillip calls {{CompanyName}} É??An Utter DisgraceÉ?ù,
+Str_Email_PrincePhilipRejection_Subject,"Prince Phillip calls {{CompanyName}} ‚ÄúAn Utter Disgrace‚Äù",
 Str_Email_PrincePhilipRejection_Body,"In a rare and extremely specific statement, Prince Phillip has called {{CompanyName}} 'an utter disgrace', accusing it of greedy and anti-competitive behaviour. The motivations behind this statement are still unclear but experts are calling it a case of being a 'grumpy old man'.
 
 
@@ -1198,7 +1202,7 @@ Str_Email_PrincePhilipRejection_Body,"In a rare and extremely specific statement
 
 
 {{Impact}}",
-Str_Email_SecurityAttackFailed_Subject,Urgent: Diffused Security Attack...,
+Str_Email_SecurityAttackFailed_Subject,"Urgent: Diffused Security Attack...",
 Str_Email_SecurityAttackFailed_Body,"Hi {{CeoFirstName}},
 
 It looks like last night we had a level {{AttackLevel}} security attack on our servers. Thanks to our team's effort the attack was ineffective, so well done. Keep up the good work on the security front!
@@ -1206,7 +1210,7 @@ It looks like last night we had a level {{AttackLevel}} security attack on our s
 Thanks,
 
 {{SenderName}}",
-Str_Email_SecurityAttackSucceeded_Subject,Urgent: Serious Security Vulnerability!,
+Str_Email_SecurityAttackSucceeded_Subject,"Urgent: Serious Security Vulnerability!",
 Str_Email_SecurityAttackSucceeded_Body,"Hi {{CeoFirstName}},
 
 Not sure how to break this to you, but we have had a level {{AttackLevel}} security breach early this morning. The scope of the attack is still not clear but there will be a big fallout from this.
@@ -1221,7 +1225,7 @@ Have a nice day (figure of speech),
 
 
 {{Impact}}",
-Str_Email_SolomonIslandsRussiaWar_Subject,Solomon Islands Carries Out Military Operation Near Russia,
+Str_Email_SolomonIslandsRussiaWar_Subject,"Solomon Islands Carries Out Military Operation Near Russia",
 Str_Email_SolomonIslandsRussiaWar_Body,"Overnight Solomon Islands carried out several naval exercises near the east coast of Russia, prompting an emergency congressional meeting in Kremlin. While the exact circumstances and motivations behind these exercises are not yet clear, the backlash is already impacting local and international communities.
 
 
@@ -1230,7 +1234,7 @@ Str_Email_SolomonIslandsRussiaWar_Body,"Overnight Solomon Islands carried out se
 
 
 {{Impact}}",
-Str_Email_SpeechDriesCandidates_Subject,Inspirational Speech Dries Up Job Applications,
+Str_Email_SpeechDriesCandidates_Subject,"Inspirational Speech Dries Up Job Applications",
 Str_Email_SpeechDriesCandidates_Body,"An inspiration speech by the well-known entrepreneur, and college drop-out, Stephanie Gigs at several national universities is being seen as the reason for an unprecedented number of students either dropping out of school, or not entering the job market. With many choosing to pursue their own startup dreams, many companies will be experiencing a shortage of qualified candidates or the coming months.
 
 
@@ -1239,7 +1243,7 @@ Str_Email_SpeechDriesCandidates_Body,"An inspiration speech by the well-known en
 
 
 {{Impact}}",
-Str_Email_SquidsDamageBackbone_Subject,Giant Squids Damage Internet Backbone,
+Str_Email_SquidsDamageBackbone_Subject,"Giant Squids Damage Internet Backbone",
 Str_Email_SquidsDamageBackbone_Body,"Scientist have confirmed that the major disruptions observed in the transatlantic backbone cables two days ago was caused by a newly discovered strain of Giant Squids, never before seen at such depths. While the reason behind this behaviour is not clear, scientists suspect that the cables may be presenting themselves as tentacles of rival squids.
 
 The damage to the cables was extensive and is expected to put upward pressure on network bandwidth costs.
@@ -1250,8 +1254,8 @@ The damage to the cables was extensive and is expected to put upward pressure on
 
 
 {{Impact}}",
-Str_Email_StartupGame_Subject,Startup Game Rejuvenates Industry,
-Str_Email_StartupGame_Body,"Newly released video game É??Startup FreakÉ?ù is being attributed to new wave of interest in the startup scene. They hyper-realistic simulation not only perfectly captures the challenges and subtleties of running a software startup, it does a brilliant job of avoiding typical genre clich??s such as self-referential jokes and breaking the forth wall.
+Str_Email_StartupGame_Subject,"Startup Game Rejuvenates Industry",
+Str_Email_StartupGame_Body,"Newly released video game ‚ÄúStartup Freak‚Äù is being attributed to new wave of interest in the startup scene. They hyper-realistic simulation not only perfectly captures the challenges and subtleties of running a software startup, it does a brilliant job of avoiding typical genre clich√©s such as self-referential jokes and breaking the forth wall.
 
 
 {{SenderName}}
@@ -1259,7 +1263,7 @@ Str_Email_StartupGame_Body,"Newly released video game É??Startup FreakÉ?ù is bei
 
 
 {{Impact}}",
-Str_Email_StatueOfFreedomFry_Subject,USA Gifts Statue of Freedom Fry to France,
+Str_Email_StatueOfFreedomFry_Subject,"USA Gifts Statue of Freedom Fry to France",
 Str_Email_StatueOfFreedomFry_Body,"Today the White House announced that in the spirit of reciprocity they will be gifting the Statue of Freedom Fry, an eighty meter monument, to the French government. In a press conference, the French president graciously accepted the gift and rejected suggestion that it is sarcastic in nature. Markets internationally are expected to see a positive boost following this news.
 
 
@@ -1268,8 +1272,8 @@ Str_Email_StatueOfFreedomFry_Body,"Today the White House announced that in the s
 
 
 {{Impact}}",
-Str_Email_StocksDownSupermanTrailer_Subject,All Major Stocks Down Following Latest Superman Trailer,
-Str_Email_StocksDownSupermanTrailer_Body,"An anonymous and untitled online trailer for the upcoming Superman film has sent investors into a selling frenzy, causing massive losses in many major stock markets. The trailer, which went viral drawing in nearly a billion views, makes use of a É??shaky camÉ?ù technique, depicting an extremely realistic destruction of several famous buildings around the globe. Many are calling it the greatest widespread panic caused by a fictional work, since the 1938 airing of War of the Worlds.
+Str_Email_StocksDownSupermanTrailer_Subject,"All Major Stocks Down Following Latest Superman Trailer",
+Str_Email_StocksDownSupermanTrailer_Body,"An anonymous and untitled online trailer for the upcoming Superman film has sent investors into a selling frenzy, causing massive losses in many major stock markets. The trailer, which went viral drawing in nearly a billion views, makes use of a ‚Äúshaky cam‚Äù technique, depicting an extremely realistic destruction of several famous buildings around the globe. Many are calling it the greatest widespread panic caused by a fictional work, since the 1938 airing of War of the Worlds.
 
 
 {{SenderName}}
@@ -1277,8 +1281,8 @@ Str_Email_StocksDownSupermanTrailer_Body,"An anonymous and untitled online trail
 
 
 {{Impact}}",
-Str_Email_StocksUpMoonsAlign_Subject,Major Indexes Soar as All Moons Align,
-Str_Email_StocksUpMoonsAlign_Body,"In a É??once in a 100 million yearsÉ?ù event, all 181 moons in the Solar system will align during the early hours on Thursday. This rare event is being interpreted as a sign of good fortune by many investors, causing a surge in share prices across many industries.
+Str_Email_StocksUpMoonsAlign_Subject,"Major Indexes Soar as All Moons Align",
+Str_Email_StocksUpMoonsAlign_Body,"In a ‚Äúonce in a 100 million years‚Äù event, all 181 moons in the Solar system will align during the early hours on Thursday. This rare event is being interpreted as a sign of good fortune by many investors, causing a surge in share prices across many industries.
 
 
 {{SenderName}}
@@ -1286,7 +1290,7 @@ Str_Email_StocksUpMoonsAlign_Body,"In a É??once in a 100 million yearsÉ?ù event,
 
 
 {{Impact}}",
-Str_Email_SwedenNewZealandWar_Subject,Sweden Declares War on New Zealand!,
+Str_Email_SwedenNewZealandWar_Subject,"Sweden Declares War on New Zealand!",
 Str_Email_SwedenNewZealandWar_Body,"Following months of tension between the two countries, Sweden has carried out an attack on New Zealand early this morning, killing 68 sheep and injuring several others. The New Zealand Prime Minister is yet to issue a statement but experts believe a husbandry retaliation is likely. Widespread impact on global economy is expected.
 
 
@@ -1295,8 +1299,8 @@ Str_Email_SwedenNewZealandWar_Body,"Following months of tension between the two 
 
 
 {{Impact}}",
-Str_Email_UnemploymentPeak_Subject,Unemployment Rises to an All Time High!,
-Str_Email_UnemploymentPeak_Body,"Rata somajului a crescut puternic in ultimul trimestru, cu mii de locuri de munca.
+Str_Email_UnemploymentPeak_Subject,"Unemployment Rises to an All Time High!",
+Str_Email_UnemploymentPeak_Body,"The rate of unemployment has increased sharply in the past quarter with thousands out of work.
 
 
 {{SenderName}}
